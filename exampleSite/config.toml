@@ -55,8 +55,8 @@ content = "Een vraag of bezorgdheid? Laat het me weten en ik antwoord je zo snel
 enable = true
 title = "Neem contact op"
 [params.cookies]
-enable = true
-expire_days = 2
+enable = false
+expire_days = "2"
 [params.footer]
 address = "Aarschot, Belgium"
 content = "<b>email subscription here</b>"
