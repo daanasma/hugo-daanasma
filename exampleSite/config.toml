@@ -60,7 +60,7 @@ expire_days = 2
 [params.footer]
 address = "Aarschot, Belgium"
 content = "<b>email subscription here</b>"
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com) ported from [WordPress Twenty Twenty](https://github.com/WordPress/twentytwenty)"
+copyright = "Based on <i>2020</i> a hugo theme by [themefisher](https://themefisher.com)"
 hours = "Monday–Friday: 9:00AM–5:00PM <br> Saturday & Sunday: 11:00AM–3:00PM"
 title = "About This Site"
 [params.gallery]
