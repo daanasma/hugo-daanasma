@@ -3,7 +3,6 @@ author = ["Admin"]
 categories = ["Working days"]
 date = 2020-03-14T09:40:24Z
 description = "This is meta description"
-draft = true
 image = "images/2020-three-quarters-1.png"
 tags = ["work", "day"]
 title = "Works and Days-(copy)"
