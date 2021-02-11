@@ -11,6 +11,10 @@ title = "Daan Asma"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.desktop]]
+URL = "blog"
+name = "Blog"
+weight = "2"
+[[menu.desktop]]
 URL = "contact"
 name = "Contact"
 weight = 1
