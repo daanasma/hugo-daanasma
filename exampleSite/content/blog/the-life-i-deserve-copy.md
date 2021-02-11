@@ -1,11 +1,11 @@
 +++
 author = ["Admin"]
-categories = ["lifestyle"]
+categories = ["adventure", "travel", "lifestyle"]
 date = 2020-03-14T09:40:24Z
 description = "This is meta description"
 draft = true
 image = "images/2020-three-quarters-2.png"
-tags = ["lifestyle", "fashion"]
+tags = ["adventure", "lifestyle", "fashion"]
 title = "The Life I Deserve-(copy)"
 
 +++
