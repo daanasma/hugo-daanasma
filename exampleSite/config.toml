@@ -74,7 +74,7 @@ email = "#"
 facebook = "#"
 instagram = "#"
 linkedin = "#"
-twitter = "#"
+twitter = "https://twitter.com/DaanAsma"
 yelp = "#"
 [taxonomies]
 author = "author"
