@@ -45,7 +45,7 @@ author = "Daan Asma"
 description = "This is meta description"
 [params.banner]
 heading = "Progress towards perfection."
-image = "images/2020-landscape-1-2.png"
+image = "images/mandala.png"
 [params.blog]
 heading = "Recente posts"
 [params.call_to_action]
