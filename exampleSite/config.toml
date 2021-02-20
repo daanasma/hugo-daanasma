@@ -2,7 +2,7 @@ baseURL = "https://hugo-daanasma.netlify.app/"
 disableLanguages = []
 disqusShortname = ""
 googleAnalytics = ""
-languageCode = "en-us"
+languageCode = "en-uk"
 languageName = "En"
 paginate = "6"
 summaryLength = "10"
@@ -42,12 +42,12 @@ weight = 5
 home = ["HTML", "RSS", "JSON"]
 [params]
 author = "Daan Asma"
-description = "This is meta description"
+description = "Enjoying the search."
 [params.banner]
 heading = "Progress towards perfection."
 image = "images/mandala.png"
 [params.blog]
-heading = "Recente posts"
+heading = "Most recent stories"
 [params.call_to_action]
 button_label = "Contacteer me"
 button_url = "contact"
@@ -60,9 +60,9 @@ expire_days = "2"
 [params.footer]
 address = "Aarschot, Belgium"
 content = "<b>email subscription here</b>"
-copyright = "Based on <i>2020</i> a hugo theme by [themefisher](https://themefisher.com)"
+copyright = "Based on <i>2020</i>, a hugo theme by [themefisher](https://themefisher.com)"
 hours = "Monday–Friday: 9:00AM–5:00PM <br> Saturday & Sunday: 11:00AM–3:00PM"
-title = "About This Site"
+title = "Stay tuned!"
 [params.gallery]
 enable = true
 [[params.gallery.gallery_item]]
@@ -73,7 +73,7 @@ image = "images/2020-square-1.png"
 email = "#"
 facebook = "#"
 instagram = "#"
-linkedin = "#"
+linkedin = "https://www.linkedin.com/in/daan-asma-218b7683"
 twitter = "https://twitter.com/DaanAsma"
 yelp = "#"
 [taxonomies]
