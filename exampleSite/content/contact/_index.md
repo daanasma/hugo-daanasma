@@ -1,10 +1,39 @@
 ---
-title: "Contact"
-bg_image: "images/2020-landscape-2.png"
-# meta description
-description: "This is meta description"
-# save as draft
-draft: false
----
+title: Contact
+bg_image: images/2020-landscape-2.png
+description: This is meta description
 
-This is a page with some basic contact information, such as an address and phone number. You might also try a plugin to add a contact form.
+---
+<form name="contact" class="contact-form width-normal" action="/thank-you/" method="POST" data-netlify="true">
+    <input type="hidden" name="form-name" value="contact" />
+    <!-- Text input-->
+    <div class="form-group">
+        <label class="col-md-4 control-label" for="Name"></label>
+        <div class="col-md-4">
+            <input id="contact-form-name" name="Name" type="text" placeholder="Name" class="form-control input-md" required="" autocomplete="off">
+        </div>
+    </div>
+    <!-- Text input-->
+    <div class="form-group">
+        <label class="col-md-4 control-label" for="Email"></label>
+        <div class="col-md-4">
+            <input id="contact-form-email" name="Email" type="email" placeholder="Email Address" class="form-control input-md" required="" autocomplete="off">
+        </div>
+    </div>
+    <!-- Text input-->
+    <div class="form-group">
+        <label class="col-md-4 control-label" for="Subject"></label>
+        <div class="col-md-4">
+            <input id="contact-form-subject" name="Subject" type="text" placeholder="Subject" class="form-control input-md" required="" autocomplete="off">
+        </div>
+    </div>
+    <!-- Textarea -->
+    <div class="form-group">
+        <label class="col-md-4 control-label" for=""></label>
+        <textarea class="form-control" id="contact-form-message" name="Message" placeholder="What's up?" rows="8"></textarea>
+    </div>
+    <!-- Button -->
+    <div class="form-group">
+        <button type="submit" value="Submit" id="Form-submit">Submit</button>
+    </div>
+</form>
