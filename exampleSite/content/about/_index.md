@@ -25,4 +25,15 @@ Heel geleidelijk aan lukte het om de mist in mijn hoofd beetje bij beetje te lat
 
 Deze tekening van [Tim Urban](https://waitbutwhy.com "Wait but Why?") is een vrij goede weergave van een aspect van het proces waar ik doorheen ging (en waarschijnlijk zal doorgaan zolang ik hier rondwandel).![](/images/wbw_roller-coaster-1-2.png)
 
-De afgelopen jaren heb ik (her)ontdekt dat ik enorm veel plezier beleef aan verkennen en ontdekken. Dit manifesteert zich uiteraard het duidelijkst in mijn goesting om de wijde wereld in te trekken, maar ook innerlijk ben ik meer en meer geboeid geraakt door allerlei verschillende thema's. Ik las heel wat boeken over een veelheid van thema's (geschiedenis, psychologie, biologie, psychologie, communicatie, filosofie en spiritualiteit, ecologie, management, economie, technologie, ...) en ook op het web vond ik heel wat materiaal om mijn nieuwsgierigheid te voeden. 
+De afgelopen jaren heb ik (her)ontdekt dat ik enorm veel plezier beleef aan verkennen en ontdekken. Dit manifesteert zich uiteraard het duidelijkst in mijn goesting om de wijde wereld in te trekken, maar ook innerlijk ben ik meer en meer geboeid geraakt door allerlei verschillende thema's. Ik las heel wat boeken over een veelheid van thema's (geschiedenis, psychologie, biologie, psychologie, communicatie, filosofie en spiritualiteit, ecologie, management, economie, politiek, technologie, ...) en ook op het web vond ik heel wat materiaal om mijn nieuwsgierigheid te voeden. 
+
+Ondanks dat ik het gevoel heb dat ik heel veel bijgeleerd heb en dat er heel wat kennis in mijn hoofd rondzweeft, worstel ik er nog vaak mee om deze ideeën te concretiseren zodat ik erover kan praten met anderen. En die dialoog is volgens mij net het allerbelangrijkste om bij te leren: je kan voor elke invalshoek op een onderwerp heel wat informatie vinden die je standpunt ondersteunt. Da's handig wanneer je doel is om "gelijk te hebben" en discussies te "winnen", maar wanneer je op zoek bent naar "de waarheid" is het volgens mij net van het grootste belang om ook je eigen ideeën uit te dagen.
+
+Dankzij het neerpennen van de avonturen die ik de afgelopen periode beleefd heb, herinner ik me ook weer dat ik enorm kan genieten van het schrijven en vertellen van een verhaal. De afgelopen 10 jaar is dit gevoel al geregeld aan de oppervlakte gekomen, maar verschillende schrijfimpulsen hadden geen echt vervolg.
+
+Dus daarom heb ik beslist om hier af en toe wat te schrijven en met jullie - mijn hypothetische lezers te delen: 
+
+* Ik wil mijn eigen inzichten concreter kunnen uitleggen,
+* Ik hoop dat er een dynamiek ontstaat die me toestaat om op een nieuwe manier bij te leren,
+* Ik wil beter worden in het vertellen van verhalen,
+* Ik heb er gewoon zin in.
