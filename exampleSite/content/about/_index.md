@@ -1,7 +1,6 @@
 ---
 title: Achtergrond
 description: This is meta description
-draft: true
 
 ---
 Zoals je al geraden had, is mijn naam Daan Asma. Ik heb nooit veel kaas gegeten van mezelf voorstellen, maar het lijkt me in dit geval geen slecht idee om toch wat achtergrondinformatie mee te geven over wie ik ben en waarom ik dit doe. 
@@ -22,4 +21,4 @@ Dat bracht me bij het volgende vraagstuk: "Hoe wil ik dan wel leven? Als dit nie
 
 Veel vragen, weinig antwoorden. 
 
-Heel geleidelijk aan lukte het om de mist in mijn hoofd beetje bij beetje te laten verdwijnen. Ik nam de tijd om mezelf beter te leren kennen en naast de steun uit mijn directe omgeving had ik het voorrecht om beroep te kunnen doen op [professionele hulp](https://www.elkeweemaes.be/ "Kairos - Elke").
+Heel geleidelijk aan lukte het om de mist in mijn hoofd beetje bij beetje te laten verdwijnen. Ik nam de tijd om mezelf beter te leren kennen en naast de steun uit mijn directe omgeving had ik het voorrecht om beroep te kunnen doen op [professionele hulp](https://www.elkeweemaes.be/ "Kairos - Elke"). 
