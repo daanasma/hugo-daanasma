@@ -8,12 +8,14 @@ Zoals je al geraden had, is mijn naam Daan Asma. Ik heb nooit veel kaas gegeten 
 
 Enkele fun facts over mijn leven:
 
-* Geboren en getogen in het Aarschotse met als natuurlijke habitat het Sint-Jozefscollege, Bekaf en De Flater / Den Draad.
-* Het belangrijkste deel van mijn leven als jong volwassene bracht ik door bij [Chiro Rillaar](www.chirojongensrillaar.com "Chiro Rillaar"), waar ik meer bijleerde dan eender welke opleiding me ooit zal kunnen geven. Ik ontdekte dat ik geniet van het stroomlijnen van groepsprocessen.
+* Ik ben geboren en getogen in het Aarschotse met als natuurlijke habitat het Sint-Jozefscollege, Bekaf en De Flater / Den Draad.
+* Het belangrijkste deel van mijn leven als jong volwassene bracht ik door bij [Chiro Rillaar](www.chirojongensrillaar.com "Chiro Rillaar"), waar ik meer bijleerde dan eender welke opleiding me ooit zal kunnen geven. Ik ontdekte dat ik geniet van samen dingen creëren en verwezenlijken.
 * Ik studeerde Geografie aan de KU Leuven en de VU Brussel. Ik leerde hoe de fysische wereld in elkaar zit en wat de invloed van mens en maatschappij kan zijn op onze omgeving. Als kind spendeerde ik uren met mijn neus in mijn _Geïllustreerde Wereldatlas voor de jeugd_, en nu leerde ik hoe ik zelf mijn eigen kaarten kon maken!
-* Na mijn studies werkte ik 6 jaar als consultant binnen de geo-informatica. Ik besefte voor het eerst écht hoe de kracht van computers en het internet er uit ziet en dit opende een heel nieuw gamma aan ideeën en mogelijkheden.
+* Na mijn studies werkte ik 6 jaar als consultant binnen de geo-informatica. Opeens werden de kaarten die ik maakte ook echt gebruikt. Ik besefte voor het eerst écht wat de kracht van computers en het internet is en dit opende een heel nieuw gamma aan ideeën en mogelijkheden. Ik speelde een belangrijke rol in een veelheid aan innovatieve projecten in binnen- en buitenland.
 * Na enkele kortere avonturen in Afrika, Centraal-Amerika en Azië vertrok ik eind 2019 naar Zuid-Amerika voor een jaar reizen zonder plan en bestemming. Na enkele maanden keerden we noodgedwongen terug naar België, waar ik opeens uitgebreid de tijd had om te tuinieren.
 * In augustus 2020 stapte ik op mijn fiets voor [het avontuur van mijn leven](https://www.polarsteps.com/DaanAsma/3718677-vive-le-velo "Polarsteps"). Ik probeer te reizen zonder plan of verwachtingen en sta open voor alles wat er op mijn pad verschijnt. 
-* Het is ongelofelijk wat er op mijn pad verschijnt.
+* Het is ongelofelijk wat er allemaal op mijn pad verschijnt.
 
-De laatste jaren zijn een
+Voor het grootste deel van mijn leven volgde ik een vrij goed afgelijnd traject: fijne jeugd in een relatief klein dorp, studies aan de dichtstbijzijnde universiteit, een stabiele job bij een goede werkgever, een lange relatie met een prachtvrouw,... Uiteraard legde ik (zoals iedereen dat probeert te doen denk ik) hier en daar wel wat uniekere elementen in mijn leven, maar de laatste jaren kreeg ik meer en meer het gevoel dat ik niet leefde op een manier die 'juist' is voor mij. 
+
+Dat bracht me bij het volgende vraagstuk: "Hoe wil ik dan wel leven? Als dit niet is wat ik wil, wat wil ik dan wel eigenlijk?". 
