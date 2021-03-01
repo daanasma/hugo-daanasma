@@ -1,6 +1,6 @@
 ---
 title: Contact
-bg_image: images/2020-landscape-2.png
+bg_image: images/mandala.png
 description: Neem contact op
 
 ---
