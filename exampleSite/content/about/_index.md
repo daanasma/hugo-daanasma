@@ -24,3 +24,5 @@ Veel vragen, weinig antwoorden.
 Heel geleidelijk aan lukte het om de mist in mijn hoofd beetje bij beetje te laten verdwijnen. Ik nam de tijd om mezelf beter te leren kennen en naast de steun uit mijn directe omgeving had ik het voorrecht om beroep te kunnen doen op [professionele hulp](https://www.elkeweemaes.be/ "Kairos - Elke"). 
 
 Deze tekening van [Tim Urban](https://waitbutwhy.com "Wait but Why?") is een vrij goede weergave van een aspect van het proces waar ik doorheen ging (en waarschijnlijk zal doorgaan zolang ik hier rondwandel).![](/images/wbw_roller-coaster-1-2.png)
+
+De afgelopen jaren heb ik (her)ontdekt dat ik enorm veel plezier beleef aan verkennen en ontdekken. Dit manifesteert zich uiteraard het duidelijkst in mijn goesting om de wijde wereld in te trekken, maar ook innerlijk ben ik meer en meer geboeid geraakt door allerlei verschillende thema's. Ik las heel wat boeken over een veelheid van thema's (geschiedenis, psychologie, biologie, psychologie, communicatie, filosofie en spiritualiteit, ecologie, management, economie, technologie, ...) en ook op het web vond ik heel wat materiaal om mijn nieuwsgierigheid te voeden. 
