@@ -24,6 +24,3 @@ fields:
   name: description
   label: description
   description: Meta description
-pages:
-- exampleSite/content/blog/dani-post.md
-- exampleSite/content/blog/dani-post.md
