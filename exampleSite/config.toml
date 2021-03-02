@@ -1,9 +1,9 @@
-baseURL = "https://hugo-daanasma.netlify.app/"
+baseURL = "https://www.daanasma.be/"
 disableLanguages = []
 disqusShortname = ""
 googleAnalytics = ""
-languageCode = "en-uk"
-languageName = "En"
+languageCode = "nl"
+languageName = "Nl"
 paginate = "6"
 summaryLength = "10"
 theme = "hugo-daanasma"
@@ -20,7 +20,7 @@ name = "Contact"
 weight = 1
 [[menu.main]]
 URL = "/"
-name = "Home"
+name = "Startpagina"
 weight = 1
 [[menu.main]]
 URL = "about"
@@ -34,35 +34,55 @@ weight = 3
 URL = "contact"
 name = "Contact"
 weight = 4
-[[menu.main]]
-URL = "sample-page"
-name = "Sample Page"
-weight = 5
+# [[menu.main]]
+# URL = "sample-page"
+# name = "Sample Page"
+# weight = 5
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
 author = "Daan Asma"
-description = "Enjoying the search."
+description = "Persoonlijke website van Daan Asma."
 [params.banner]
-heading = "Progress towards perfection."
-image = "images/mandala.png"
+heading = "" 
+image = "images/daan_fiets_catalunya.jpg"
 [params.blog]
-heading = "Most recent stories"
+heading = "Recente verhalen"
 [params.call_to_action]
 button_label = "Contacteer me"
 button_url = "contact"
-content = "Een vraag of bezorgdheid? Laat het me weten en ik antwoord je zo snel mogelijk!"
+content = "Een vraag, suggestie of bezorgdheid? Laat het me weten en ik antwoord je zo snel mogelijk!"
 enable = true
 title = "Neem contact op"
 [params.cookies]
 enable = false
 expire_days = "2"
 [params.footer]
-address = "Aarschot, Belgium"
-content = "<b>email subscription here</b>"
-copyright = "Based on <i>2020</i>, a hugo theme by [themefisher](https://themefisher.com)"
-hours = "Monday–Friday: 9:00AM–5:00PM <br> Saturday & Sunday: 11:00AM–3:00PM"
-title = "Stay tuned!"
+address = ""
+content = """
+<!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<div id="mc_embed_signup">
+<form action="https://daanasma.us1.list-manage.com/subscribe/post?u=7fa91ae5f5e462488f8dc4a7c&amp;id=b8f635b9dc" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	
+<div class="mc-field-group">
+	<input type="email" value="" name="EMAIL" placeholder="e-mailadres" class="required email" id="mce-EMAIL">
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_7fa91ae5f5e462488f8dc4a7c_b8f635b9dc" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Abonneer" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->"""
+copyright = "<small>Based on <i>2020</i>, a hugo theme by [themefisher](https://themefisher.com)</small>"
+hours = ""
+title = "Blijf op de hoogte"
 [params.gallery]
 enable = true
 [[params.gallery.gallery_item]]
@@ -70,12 +90,10 @@ image = "images/2020-square-2.png"
 [[params.gallery.gallery_item]]
 image = "images/2020-square-1.png"
 [params.social]
-email = "#"
-facebook = "#"
-instagram = "#"
+instagram = "https://www.instagram.com/daanasma.be/"
 linkedin = "https://www.linkedin.com/in/daan-asma-218b7683"
 twitter = "https://twitter.com/DaanAsma"
-yelp = "#"
+github = "gittie"
 [taxonomies]
 author = "author"
 category = "categories"
