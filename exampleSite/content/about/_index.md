@@ -5,7 +5,7 @@ description: Achtergrondinformatie
 ---
 Zoals je al geraden had, is mijn naam Daan Asma. Voor zij die mij niet kennen, zo zie ik eruit met een hoed:
 
-![](/images/img_20200920_184202.jpg)
+![](/images/daan_hoed.jpg)
 
 Ik heb nooit veel kaas gegeten van mezelf voorstellen, maar het lijkt me in dit geval geen slecht idee om toch wat achtergrondinformatie mee te geven. Wie ben ik en waarom heb ik in godsnaam beslist dat de wereld een extra blog nodig heeft?
 

@@ -86,14 +86,14 @@ title = "Blijf op de hoogte"
 [params.gallery]
 enable = true
 [[params.gallery.gallery_item]]
-image = "images/2020-square-2.png"
+image = "images/road_catalunya.jpg"
 [[params.gallery.gallery_item]]
-image = "images/2020-square-1.png"
+image = "images/road_carretera_austral_sign.jpg"
 [params.social]
 instagram = "https://www.instagram.com/daanasma.be/"
 linkedin = "https://www.linkedin.com/in/daan-asma-218b7683"
 twitter = "https://twitter.com/DaanAsma"
-github = "gittie"
+github = "https://github.com/daanasma"
 [taxonomies]
 author = "author"
 category = "categories"
