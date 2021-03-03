@@ -1,6 +1,6 @@
 baseURL = "https://www.daanasma.be/"
 disableLanguages = []
-disqusShortname = ""
+disqusShortname = "daanasma"
 googleAnalytics = "UA-163342485-1"
 languageCode = "nl"
 languageName = "Nl"
@@ -34,17 +34,13 @@ weight = 3
 URL = "contact"
 name = "Contact"
 weight = 4
-# [[menu.main]]
-# URL = "sample-page"
-# name = "Sample Page"
-# weight = 5
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
 author = "Daan Asma"
 description = "Persoonlijke website van Daan Asma."
 [params.banner]
-heading = "" 
+heading = ""
 image = "images/daan_fiets_catalunya.jpg"
 [params.blog]
 heading = "Recente verhalen"
@@ -59,27 +55,7 @@ enable = false
 expire_days = "2"
 [params.footer]
 address = ""
-content = """
-<!-- Begin Mailchimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-<div id="mc_embed_signup">
-<form action="https://daanasma.us1.list-manage.com/subscribe/post?u=7fa91ae5f5e462488f8dc4a7c&amp;id=b8f635b9dc" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-	
-<div class="mc-field-group">
-	<input type="email" value="" name="EMAIL" placeholder="e-mailadres" class="required email" id="mce-EMAIL">
-</div>
-	<div id="mce-responses" class="clear">
-		<div class="response" id="mce-error-response" style="display:none"></div>
-		<div class="response" id="mce-success-response" style="display:none"></div>
-	</div>
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_7fa91ae5f5e462488f8dc4a7c_b8f635b9dc" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Abonneer" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-
-<!--End mc_embed_signup-->"""
+content = "<!-- Begin Mailchimp Signup Form -->\n<link href=\"//cdn-images.mailchimp.com/embedcode/classic-10_7.css\" rel=\"stylesheet\" type=\"text/css\">\n<div id=\"mc_embed_signup\">\n<form action=\"https://daanasma.us1.list-manage.com/subscribe/post?u=7fa91ae5f5e462488f8dc4a7c&amp;id=b8f635b9dc\" method=\"post\" id=\"mc-embedded-subscribe-form\" name=\"mc-embedded-subscribe-form\" class=\"validate\" target=\"_blank\" novalidate>\n    <div id=\"mc_embed_signup_scroll\">\n\t\n<div class=\"mc-field-group\">\n\t<input type=\"email\" value=\"\" name=\"EMAIL\" placeholder=\"e-mailadres\" class=\"required email\" id=\"mce-EMAIL\">\n</div>\n\t<div id=\"mce-responses\" class=\"clear\">\n\t\t<div class=\"response\" id=\"mce-error-response\" style=\"display:none\"></div>\n\t\t<div class=\"response\" id=\"mce-success-response\" style=\"display:none\"></div>\n\t</div>\n    <div style=\"position: absolute; left: -5000px;\" aria-hidden=\"true\"><input type=\"text\" name=\"b_7fa91ae5f5e462488f8dc4a7c_b8f635b9dc\" tabindex=\"-1\" value=\"\"></div>\n    <div class=\"clear\"><input type=\"submit\" value=\"Abonneer\" name=\"subscribe\" id=\"mc-embedded-subscribe\" class=\"button\"></div>\n    </div>\n</form>\n</div>\n\n<!--End mc_embed_signup-->"
 copyright = "<small>Based on <i>2020</i>, a hugo theme by [themefisher](https://themefisher.com)</small>"
 hours = ""
 title = "Blijf op de hoogte"
@@ -90,10 +66,10 @@ image = "images/road_catalunya.jpg"
 [[params.gallery.gallery_item]]
 image = "images/road_carretera_austral_sign.jpg"
 [params.social]
+github = "https://github.com/daanasma"
 instagram = "https://www.instagram.com/daanasma.be/"
 linkedin = "https://www.linkedin.com/in/daan-asma-218b7683"
 twitter = "https://twitter.com/DaanAsma"
-github = "https://github.com/daanasma"
 [taxonomies]
 author = "author"
 category = "categories"
