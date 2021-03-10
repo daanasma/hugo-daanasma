@@ -20,7 +20,7 @@ De afgelopen 10 jaar vertrok ik meermaals met mijn rugzak op avontuur naar relat
 
 Bovendien deed - en doet - het internet er geregeld nog een schepje bovenop: dit soort foto's doen me watertanden.
 
-![alt](images/image1.jpg "image_tooltip")![](/images/bicycle-touring-in-argentina.jpg "Patagonia Cycling")
+![](/images/bicycle-touring-in-argentina.jpg "Patagonia Cycling")
 
 ## Hoe zou dat dan concreet in zijn werk gaan?
 
