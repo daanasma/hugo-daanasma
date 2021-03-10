@@ -24,8 +24,8 @@ name = "Blog"
 weight = "2"
 [[menu.main]]
 URL = "about"
-name = "Achtergrond"
-weight = 2
+name = "Over"
+weight = "3"
 [[menu.main]]
 URL = "contact"
 name = "Contact"
