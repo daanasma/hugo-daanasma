@@ -3,7 +3,6 @@ author = []
 categories = ["Essay", "Psychologie", "Reizen"]
 date = 2021-03-09T23:00:00Z
 description = "Op de vooravond van de volgende fase van mijn avontuur ben ik enthousiast over wat komt. Maar vertrekken kost moeite, zo blijkt..."
-draft = true
 image = "/images/road-to-freedom.jpg"
 tags = ["Vertrek", "Comfortzone"]
 title = "De kunst van het vertrekken"
