@@ -16,7 +16,7 @@ name = "Blog"
 weight = "2"
 [[menu.main]]
 URL = "/"
-name = "Startpagina"
+name = "Start"
 weight = 1
 [[menu.main]]
 URL = "blog"
