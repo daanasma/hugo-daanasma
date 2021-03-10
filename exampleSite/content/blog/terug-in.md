@@ -1,12 +1,12 @@
 +++
 author = []
-categories = []
-date = ""
-description = ""
+categories = ["Essay", "Psychologie", "Reizen"]
+date = 2021-03-09T23:00:00Z
+description = "Op de vooravond van de volgende fase van mijn avontuur ben ik enthousiast over wat komt. Maar vertrekken kost moeite, zo blijkt..."
 draft = true
-image = ""
-tags = []
-title = "Terug in "
+image = "/images/road-to-freedom.jpg"
+tags = ["Vertrek", "Comfortzone"]
+title = "De kunst van het vertrekken"
 
 +++
 Samen met de eerste zonnestralen van de Spaanse lente verschenen de voorbije weken ook de kriebels om mijn fietstocht verder te zetten. Ik kijk er opnieuw naar uit om door prachtige landschappen te glijden, nieuwe mensen te ontmoeten en elke dag een vers avontuur te beleven. Ik heb met volle teugen genoten van mijn tijd op [deze wonderbaarlijke berg](https://www.openstreetmap.org/#map=13/39.0085/-0.8093 "Mount Benali"), maar de vrijheid roept.
@@ -57,7 +57,7 @@ Zo leerde ik voor en tijdens ons avontuur naar Zuid-Amerika enorm veel bij over 
 
 ![](/images/tent_candelario_mansilla.jpg)
 
-Ook kon ik deze (pracht)fiets voor een spotprijs op de kop tikken. 
+Ook kon ik deze (pracht)fiets voor een spotprijs op de kop tikken.
 
 ![](/images/peugeot_fiets_opgeknapt.jpg)
 
@@ -83,42 +83,44 @@ Wanneer ik dit proces bekijk vanop een afstand, komt het conceptueel vrij goed o
 
 Onderstaande figuur, die ik al regelmatig ben tegengekomen, helpt mij om de onderliggende dynamiek van dit proces beter te begrijpen.
 
+![](/images/comfort-cirkels-algemeen.jpg)
+
 Telkens wanneer ik begon te dromen van een fietsavontuur was ik heerlijk genesteld in mijn comfortzone, omringd door alles had wat ik nodig had. Op zich is daar ook helemaal niets mis mee, maar wanneer de slinger te ver doorslaat, laat ik mezelf toe om in te dommelen. Als op zo’n moment het beeld van een volgeladen fiets mijn hoofd binnenrijdt, verhuizen mijn gedachten zich naar het ‘stretch’-gebied, wat een energieboost opwekt. Diep vanbinnen weet ik dat dit is wat ik wil en ‘moet’ doen en dat maakt me enthousiast.
 
 Tijdens de concretisering van dit droombeeld worden echter verschillende obstakels duidelijk en daardoor verplaatst mijn gedachtenstroom zich nog iets verder naar buiten in het diagram. Het enthousiasme maakt plaats voor stress. Hetgeen eerst spannend leek wordt overschaduwd door de onduidelijkheid en blokkeert mijn geest. Vanuit deze ‘panieksituatie’ is het moeilijk om de energie en kalmte te vinden om de obstakels aan te pakken. Uiteindelijk verdwijnt de droom terug naar de achtergrond en ik installeer me opnieuw in de donzige warmte van mijn comfortzone.
 
-In het leven is er echter niets onveranderlijk. Of zoals _Herakleitos _het meer dan 2500 jaar geleden al zo mooi verwoord zou hebben_: _
+In het leven is er echter niets onveranderlijk. Of zoals _Herakleitos_ het meer dan 2500 jaar geleden al zo mooi verwoord zou hebben: 
 
-_> Panta Rhei._
+> _Panta Rhei._
 
 Doorheen de tijd stapelt elk van ons - al dan niet vrijwillig - ervaringen op. Deze impressies kunnen ervoor zorgen dat de grenzen van de verschillende zones verschuiven. Na zo’n kleine wijziging in mindset kan het zijn dat je dezelfde ervaring of gebeurtenis op een volledig andere manier benadert en beleeft. Onderstaande figuur waarbij het zwarte kruis telkens dezelfde gebeurtenis weergeeft illustreert dit concept.
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![](/images/comfort-cirkels-verschil.jpg)
 
-![alt](images/image3.png "image_tooltip")
+Wanneer we dit bekijken in de context van mijn verhaal zorgden de verschillende dingen die ik bij leerde (kamperen, fietsmechanica) dat de buitengrens van mijn stretchzone zich verplaatste. Een avontuur dat zich voordien nog diep in de rode zone bevond (A) werd opeens een pak meer haalbaar (B). Net zoals de buitengrens van de stretchzone kan verlegd worden, kan ook de comfortzone in grootte toenemen. Zo kan het gebeuren dat iets wat je op dit moment enorme angst inboezemt binnen enkele jaren een fluitje van een cent wordt. Wanneer je voor het eerst een muziekinstrument aanraakt, lijken je favoriete nummers enorm complex en uitdagend. Enkele maanden (of jaren) oefenen later kan je dankzij je verbeterde skills diezelfde nummers waarschijnlijk met je ogen dicht spelen. Nuja, dat hangt natuurlijk ook een beetje van je smaak af, [heb ik ondervonden](https://www.youtube.com/watch?v=jdYJf_ybyVo "John Butler - Ocean"). 
 
-Wanneer we terugkeren naar mijn verhaal zorgden de verschillende dingen die ik bij leerde (kamperen, fietsmechanica) dat de buitengrens van mijn stretch-zone zich verplaatste. Een avontuur dat zich voordien nog diep in de rode zone bevond (A) werd opeens een pak meer haalbaar (B). Net zoals de buitengrens van de stretch-zone kan verlegd worden, kan ook de comfortzone in grootte toenemen. Zo kan het gebeuren dat je iets wat je op dit moment enorme angst inboezemt binnen enkele jaren op automatische piloot uitvoert. Wanneer je voor het eerst een muziekinstrument in je hand en krijgt, lijken je favoriete nummers enorm complex en uitdagend. Enkele maanden (of jaren) later kan je dankzij je verbeterde skills diezelfde nummers waarschijnlijk met je ogen dicht spelen.
+Op dezelfde manier kunnen de grenzen van de verschillende zones zich in de andere richting verplaatsen. Een ‘negatieve’ ervaring, of zelfs simpelweg een slechte dag kan ervoor zorgen dat je stretchzone een pak kleiner wordt (C), waardoor je referentiekader opnieuw helemaal verschuift.
 
-Op dezelfde manier kunnen de grenzen van de verschillende zones zich in de andere richting verplaatsen. Een ‘negatieve’ ervaring, of zelfs simpelweg een slechte dag kan ervoor zorgen dat je stretch-zone een pak kleiner wordt (C), waardoor je referentiekader opnieuw helemaal verschuift.
+Ik vind het boeiend om over het leven na te denken als een heel grote collectie van dit soort diagrammen. Een gebeurtenis kan quasi altijd vanuit verschillende invalshoeken benaderd worden. Een lange fietstocht kan bijvoorbeeld op fysiek vlak binnen je comfortzone liggen, maar tegelijkertijd bezorgt de onzekerheid en het vooruitzicht van vaak en lang alleen te zijn je mogelijk paniek. 
 
-Ik vind het boeiend om over het leven na te denken als een heel grote collectie van dit soort diagrammen. Een gebeurtenis kan quasi altijd vanuit verschillende invalshoeken benaderd worden en ik ben ervan overtuigd dat het onmogelijk is om dit volledig te doorgronden. Wel kan dit soort hulpmiddel helpen om af en toe wat afstand te nemen en je eigen gedrag en gevoelens door een andere bril te bekijken. Dé waarheid zal het niet opleveren, maar misschien geeft het je wel een zetje in de juiste richting.
+Ik ben ervan overtuigd dat het onmogelijk is om dit volledig te doorgronden, maar dit soort hulpmiddel kan wel helpen om af en toe wat afstand te nemen en je eigen gedrag en gevoelens door een andere bril te bekijken. Dé waarheid zal het niet opleveren, maar misschien geeft het je wel een zetje in de juiste richting.
 
-Bovendien kan het ook helpen in het inleven in het perspectief van anderen. Heel vaak beleven verschillende mensen dezelfde situatie op een compleet andere manier, vaak zonder het te beseffen. Ik geloof dat empathie en ‘elkaar beter proberen begrijpen’ in elk soort relatie een goed idee is, en dit gereedschap kan daar misschien een kleine bijdrage aan leveren.
+Bovendien kan het ook helpen om je in te leven in het perspectief van anderen. Heel vaak beleven verschillende mensen dezelfde situatie op een compleet andere manier, vaak zonder het te beseffen. Ik geloof dat empathie en ‘elkaar beter proberen begrijpen’ in elk soort relatie een goed idee is, en dit gereedschap kan daar misschien een kleine bijdrage aan leveren.
 
-Na een leerproces van 30 jaar is het me inmiddels duidelijk dat ikzelf nood heb aan een gezond evenwicht tussen de twee zones aan de binnenkant van het diagram. Mijn leven heeft de spannendste dynamiek als ik me in de stretchzone bevind, maar tegelijkertijd kan ik niet zonder periodes van rust en herbronning die ik in mijn comfortzone terugvind. Eenmaal daar genesteld kan ik er ook oprecht van genieten, maar vaak beland ik er pas als ik écht niet anders meer kan.
+Na een leerproces van 30 jaar is het me inmiddels duidelijk dat ikzelf nood heb aan een gezond evenwicht tussen de twee zones aan de binnenkant van het diagram. Mijn leven heeft de spannendste dynamiek als ik me in de stretchzone bevind, maar tegelijkertijd kan ik niet zonder periodes van rust en herbronning die ik in mijn comfortzone terugvind. Eenmaal daar genesteld kan ik er ook oprecht van genieten, maar vaak beland ik er pas als ik écht niet anders meer kan en snak naar rust.
 
-Na een tijd begint het opnieuw te kriebelen, maar het kost het me op dat moment heel wat energie om effectief in beweging te geraken omdat er nieuwe onduidelijkheden verschijnen. Dit zorgt opnieuw voor uitstelgedrag voor de voorbereiding op een volgende ‘sprong in het duister’.
+Na een tijd begint het opnieuw te kriebelen, maar het kost het me op dat moment heel wat energie om effectief in beweging te geraken omdat er nieuwe onduidelijkheden verschijnen. Dit zorgt opnieuw voor uitstelgedrag voor de voorbereiding op een volgende ‘sprong in het duister’. En zo gaat de cyclus verder.
 
-Ik merk bovendien dat het een stuk makkelijker is om terug in beweging te geraken wanneer ik op tijd en bewust kies voor wat mentale rust. Op die manier heb ik nog wat benzine in de tank om tijdens de rustperiode mezelf voor te bereiden op nieuwe spannende perioden.
+Ik merk dat het een stuk makkelijker is om terug in beweging te geraken wanneer ik op tijd en bewust kies voor wat mentale rust. Op die manier heb ik nog wat benzine in de tank om tijdens de rustperiode mezelf voor te bereiden op een nieuwe spannende periode.
 
 Achteraf valt me dit elke keer op, maar zoals ook de geschiedenis zich niet herhaalt op exact dezelfde manier, verschijnt dit proces ook in mijn persoonlijke ervaring vaak met een andere vermomming. Een ezel stoot zich geen twee keer aan dezelfde steen. Maar er zijn veel stenen met een net iets andere vorm of kleur, en als de ezel enkel oplet voor exact hetzelfde type steen, resulteert dit wel eens in een nieuwe blauwe teen. Andere steen, zelfde pijn.
 
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![](/images/tattoo_repeated_offender.png)
 
-![alt](images/image4.png "image_tooltip")
+Het boeiende is dat ik - zoals flinke ezels dat doen - steeds aandachtiger word in het detecteren van andere stenen. Ik heb inmiddels al meermaals bewust ervaren dat het goed voor me is om die valkuil te vermijden en mijn comfortzone te verlaten op een moment waarop ik me nog goed voel. En ik probeer ook op tijd te temporiseren, zodat ik op een bewuste manier kan uitrusten vooraleer ik niet meer verder kan. 
 
-Het goede is dat ik - zoals flinke ezels dat doen - steeds aandachtiger word in het detecteren van andere stenen. Ik heb inmiddels al meermaals bewust ervaren dat het goed voor me is om die valkuil te vermijden en mijn comfortzone te verlaten op een moment waarop ik me nog goed voel. En ik probeer ook op tijd te temporiseren, vooraleer ik niet meer kan. Ik ben er me van bewust dat ik waarschijnlijk heel mijn leven op zoek zal zijn naar dit soort evenwichten: comfort en avontuur, rust en chaos,...
+Ik ben er me van bewust dat ik waarschijnlijk heel mijn leven op zoek zal zijn naar dit soort evenwichten: comfort en avontuur, rust en chaos,... Gaandeweg zal ik hopelijk steeds beter kunnen herkennen wanneer ik me heb laten verrassen. En wie weet leer ik me op een dag zelfs te beheersen en kweek ik wat discipline. 
 
-Gaandeweg zal ik hopelijk steeds beter kunnen herkennen wanneer ik me heb laten verrassen. En wie weet leer ik me zelfs te beheersen. Panta Rhei, dus alles is mogelijk.
+Panta Rhei, dus alles is mogelijk.
 
 Tijd om mijn stalen ros terug vol te laden.
