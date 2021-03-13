@@ -29,18 +29,18 @@ De eerste fase verscheen meermaals, maar telkens ik iets dieper begon te graven,
 * Als ik met de fiets op reis ga, moet het ook een interessante bestemming zijn. Waar ga ik naartoe?
 * Ik heb maar enkele weken verlof. Hoe geraak ik met een fiets op een bestemming vooraleer ik daar een tocht kan maken?
 * Eigenlijk heb ik geen goede, betrouwbare fiets.
-  * O nee er zijn 100000 mogelijke fietsmodellen met allemaal hun voor- en nadelen.
+  * Oh nee, er zijn 100000 mogelijke fietsmodellen met allemaal hun voor- en nadelen.
   * Wat doe ik als mijn fiets stuk gaat onderweg?
 * Waar zou ik overnachten?
   * Een tent lijkt me wel een goed idee.
-  * O nee er zijn 10000 mogelijke tenten met allemaal hun voor- en nadelen.
+  * Oh nee, er zijn 10000 mogelijke tenten met allemaal hun voor- en nadelen.
   * Ik weet eigenlijk niks van kamperen. Snel even vragen aan mijn [ervaringsdeskundige vriend Wouter](https://noplacelikeoutside.be/ "No Place Like Outside") hoe dat net in zijn werk gaat.
-    * O nee..
+    * Oh nee...
 * Hoe neem ik mijn bagage mee?
   * Ik heb heel wat tassen nodig.
     * Welke tassen heb ik nodig?
 * Het gaat waarschijnlijk ook wel regenen onderweg. En wat als het heel koud wordt?
-* Ik ben eigenlijk niet zo goed in conditie momenteel..
+* Ik ben eigenlijk niet zo goed in conditie momenteel...
 
 Meer dan eens ontwikkelde deze lawine aan onduidelijkheden zich, en telkens ging de storm van enthousiasme terug liggen en verhuisden de plannen terug naar de achtergrond.
 
@@ -92,7 +92,7 @@ Tijdens de concretisering van dit droombeeld worden echter verschillende obstake
 
 In het leven is er echter niets onveranderlijk. Of zoals _Herakleitos_ het meer dan 2500 jaar geleden al zo mooi verwoord zou hebben:
 
-> _Panta Rhei._
+> _Panta Rhei. Alles stroomt._
 
 Doorheen de tijd stapelt elk van ons - al dan niet vrijwillig - ervaringen op. Deze impressies kunnen ervoor zorgen dat de grenzen van de verschillende zones verschuiven. Na zo’n kleine wijziging in mindset kan het zijn dat je dezelfde ervaring of gebeurtenis op een volledig andere manier benadert en beleeft. Onderstaande figuur waarbij het zwarte kruis telkens dezelfde gebeurtenis weergeeft illustreert dit concept.
 
@@ -120,7 +120,7 @@ Achteraf valt me dit elke keer op, maar zoals ook de geschiedenis zich niet herh
 
 Het boeiende is dat ik - zoals flinke ezels dat doen - steeds aandachtiger word in het detecteren van andere stenen. Ik heb inmiddels al meermaals bewust ervaren dat het goed voor me is om die valkuil te vermijden en mijn comfortzone te verlaten op een moment waarop ik me nog goed voel. En ik probeer ook op tijd te temporiseren, zodat ik op een bewuste manier kan uitrusten vooraleer ik niet meer verder kan.
 
-Ik ben er me van bewust dat ik waarschijnlijk heel mijn leven op zoek zal zijn naar dit soort evenwichten: comfort en avontuur, rust en chaos,... Gaandeweg zal ik hopelijk steeds beter kunnen herkennen wanneer ik me heb laten verrassen. En wie weet leer ik me op een dag zelfs te beheersen en kweek ik wat discipline.
+Ik ben er me van bewust dat ik waarschijnlijk heel mijn leven op zoek zal zijn naar dit soort evenwichten: comfort en avontuur, rust en chaos, ... Gaandeweg zal ik hopelijk steeds beter kunnen herkennen wanneer ik me heb laten verrassen. En wie weet leer ik me op een dag zelfs te beheersen en kweek ik wat discipline.
 
 Panta Rhei, dus alles is mogelijk.
 
