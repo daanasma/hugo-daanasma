@@ -1,6 +1,6 @@
 baseURL = "https://www.daanasma.be/"
 disableLanguages = []
-disqusShortname = "daanasma"
+disqusShortname = ""
 googleAnalytics = "UA-163342485-1"
 languageCode = "nl-BE"
 languageName = "Nl"
@@ -40,6 +40,12 @@ heading = ""
 image = "images/daan_fiets_catalunya.jpg"
 [params.blog]
 heading = "Recente verhalen"
+[params.introduction_info]
+button_label = "Meer info"
+button_url = "about"
+content = "Welkom op mijn website/blog! Wil je meer weten over wie ik ben, waarom ik dit doe en wat je kan verwachten?<br> Hier geef ik je met veel plezier wat extra uitleg."
+enable = true
+title = "Waar ben je beland?"
 [params.call_to_action]
 button_label = "Naar het contactformulier"
 button_url = "contact"

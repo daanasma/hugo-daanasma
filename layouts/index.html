@@ -19,6 +19,25 @@
   </figure>
   {{end}}
 
+  {{ if .Site.Params.introduction_info.enable }}
+  {{ with .Site.Params.introduction_info }}
+  <br>
+  <div class="wp-block-group alignwide has-background" style="background-color:#ffffff">
+    <div class="wp-block-group__inner-container">
+      <div class="wp-block-group">
+        <div class="wp-block-group__inner-container">
+          <h2 class="has-text-align-center">{{ .title | markdownify }}</h2>
+          <p class="has-text-align-center">{{ .content | markdownify }}</p>
+          <div class="wp-block-button aligncenter"><a class="wp-block-button__link"
+              href="{{ .button_url | absURL }}">{{ .button_label }}</a></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  {{ end }}
+  {{ end }}
+
+
   <div class="post-inner thin">
     <div class="entry-content">
       {{ with .Site.Params.blog.heading }}
