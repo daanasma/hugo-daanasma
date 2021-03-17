@@ -4,7 +4,6 @@ bg_image: images/daan_hoed.jpg
 description: Neem contact op
 
 ---
-
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <div class="contact-form width-normal" id="mc_embed_signup">
@@ -39,11 +38,7 @@ description: Neem contact op
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
 
---
-
 <h2>Neem contact op</h2>
 <p>Heb je een vraag, suggestie of bezorgdheid? Twijfel niet om contact op te nemen en ik antwoord zo snel ik kan!</p>
-
-
 
 <form name="contact" class="contact-form width-normal" action="/thank-you/" method="POST" data-netlify="true"> <input type="hidden" name="form-name" value="contact" /> <!-- Text input--> <div class="form-group"> <label class="col-md-4 control-label" for="Name"></label> <div class="col-md-4"> <input id="contact-form-name" name="Name" type="text" placeholder="Naam" class="form-control input-md" required="" autocomplete="off"> </div> </div> <!-- Text input--> <div class="form-group"> <label class="col-md-4 control-label" for="Email"></label> <div class="col-md-4"> <input id="contact-form-email" name="Email" type="email" placeholder="E-mailadres" class="form-control input-md" required="" autocomplete="off"> </div> </div> <!-- Text input--> <div class="form-group"> <label class="col-md-4 control-label" for="Subject"></label> <div class="col-md-4"> <input id="contact-form-subject" name="Subject" type="text" placeholder="Onderwerp" class="form-control input-md" required="" autocomplete="off"> </div> </div> <!-- Textarea --> <div class="form-group"> <label class="col-md-4 control-label" for=""></label> <textarea class="form-control" id="contact-form-message" name="Message" placeholder="Boodschap" rows="8"></textarea> </div> <!-- Button --> <br><div class="form-group"> <button type="submit" value="Submit" id="Form-submit">Verstuur</button> </div> </form>
