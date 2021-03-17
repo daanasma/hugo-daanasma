@@ -10,7 +10,7 @@ description: Neem contact op
 <div class="contact-form width-normal" id="mc_embed_signup">
 <form action="https://daanasma.us1.list-manage.com/subscribe/post?u=7fa91ae5f5e462488f8dc4a7c&amp;id=b8f635b9dc" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Abbonneer je op de nieuwsbrief.</h2>
+	<h2>Abonneer je op de nieuwsbrief.</h2>
 <p>Wanneer er een nieuw verhaal verschijnt, laat ik je graag iets weten.</p>
 
 <div class="indicates-required"><span class="asterisk">*</span> Vereiste velden</div>
@@ -32,7 +32,7 @@ description: Neem contact op
 		<div class="response" id="mce-success-response" style="display:none"></div>
 	</div>  
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_7fa91ae5f5e462488f8dc4a7c_b8f635b9dc" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Abbonneer" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    <div class="clear"><input type="submit" value="Abonneer" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
 </form>
 </div>
