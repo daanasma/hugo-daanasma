@@ -15,6 +15,9 @@
 
   {{ $style := resources.Get "css/style.css" | minify }}
   <link rel="stylesheet" href="{{ $style.Permalink }}" media="screen">
+ 
+  {{ $styleshortcodes := resources.Get "css/style-shortcodes.css" | minify }}
+  <link rel="stylesheet" href="{{ $styleshortcodes.Permalink }}" media="screen">
 
   {{ "<!--Favicon-->" | safeHTML }}
   <link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">

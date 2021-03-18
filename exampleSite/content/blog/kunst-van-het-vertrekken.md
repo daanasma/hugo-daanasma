@@ -125,3 +125,5 @@ Ik ben er me van bewust dat ik waarschijnlijk heel mijn leven op zoek zal zijn n
 Panta Rhei, dus alles is mogelijk.
 
 Tijd om mijn stalen ros terug vol te laden. De horizon roept.
+
+---
