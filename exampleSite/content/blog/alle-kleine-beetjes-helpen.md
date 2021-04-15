@@ -29,7 +29,7 @@ Een poosje terug las ik het boek [“Atomic Habits”](https://jamesclear.com/at
 Enerzijds wordt na verloop van tijd de impact van elke nieuwe uitvoering iets groter: door herhaling en training schaaf je (meestal) je vaardigheden bij en word je effectiever in de uitvoering. 
 Anderzijds stapelen ook de resultaten van die eerste uitvoeringen op. Bovendien gebeurt in het leven bijna niets zoals je het op voorhand voorspelt, en deze eerste kleine stappen zetten vaak onverwachte trajecten in beweging.
 
-> "Alle kleine beetjes helpen" - ons moeder
+> "Alle kleine beetjes helpen" -  Ons moeder
 
 Samen met de observatie dat vele kleine beetjes over een lange periode opstapelen tot _een heleboel_, kunnen we ook stellen dat kleine _koersveranderingen_ na verloop van tijd een groot effect kunnen hebben. Om dit te illustreren roep ik graag de hulp in van misschien wel het meest spectaculaire voorbeeld van een reiziger die onverwachte dingen op zijn pad aantrof: Cristóbal Colón (of Christoffer Columbus, zoals wij hem beter kennen).
 
