@@ -4,6 +4,7 @@ author = ["Daan Asma"]
 categories = ["Persoonlijke groei", "Psychologie", "Essay"]
 date = 2021-03-14T23:00:00Z
 description = "Kleine beetjes? Doet wel wat."
+draft = true
 image = ""
 tags = ["Verandering", "Atomic Habits", "Gewoontes"]
 title = "Alle kleine beetjes helpen"
