@@ -2,10 +2,10 @@
 Draft = true
 author = ["Daan Asma"]
 categories = ["Persoonlijke groei", "Psychologie", "Essay"]
-date = 2021-03-14T23:00:00Z
+date = 2021-04-15T17:00:00Z
 description = "Kleine beetjes? Doet wel wat."
 draft = true
-image = ""
+image = "/images/school_visjes_mexico_small.jpg"
 tags = ["Verandering", "Atomic Habits", "Gewoontes"]
 title = "Alle kleine beetjes helpen"
 
@@ -35,23 +35,27 @@ zijn overtocht uitvoerde in een rechte lijn.
 
 Beeld je even in dat hij aan de vooravond van zijn vertrek had besloten om een koers te volgen die 3° meer naar het noorden gericht was. Dit tijdloze pennenzakattribuut kan je misschien helpen met de inschatting van de grootte 3°.
 
-.
-
-Niet bijster veel dus.
+![](/images/geodriehoek.jpg)Niet bijster veel dus.
 
 Wanneer we deze afwijking echter doortrekken over de volledige oversteek van de Atlantische Oceaan, krijgen we een ander beeld.Onderstaand kaartje toont aan dat de eerste kustlijn aan de horizon in dat geval in het midden van het huidige Florida lag.
 
-Een minieme verandering in _richting_ resulteert in een verschil van enkele honderden kilometers, en dat zou waarschijnlijk een behoorlijke invloed hebben gehad op de geschiedenis van de Nieuwe Wereld.
+![](/images/columbus-3-difference.jpg)
+
+Een minieme verandering in _richting_ zou hier dus resulteren in een uiteindelijk verschil van enkele honderden kilometers, en dat zou waarschijnlijk een behoorlijke invloed hebben gehad op de geschiedenis van de Nieuwe Wereld.
 
 Dit beeld is voor mij een handig hulpmiddel om op een iets andere manier naar mijn eigen leven en leefwereld te kijken. Zoals bij al dit soort metaforen is het natuurlijk belangrijk te beseffen dat dit niet 'de waarheid' voorstelt. Wel kan het een mogelijkheid tot bijleren zijn.
 
-Het afgelopen jaar zijn we met z’n allen (helaas) heel wat in contact gekomen met grafieken die een exponentiële evolutie symboliseren. In het geval van exponentiële groei doorheen de tijd betekent dit kortweg dat hetgeen getoond wordt steeds sneller zal toenemen. Wanneer we kijken naar de impact van een dagelijkse verbetering verschijnt een gelijkaardig patroon.
+Het afgelopen jaar zijn we met z’n allen (helaas) behoorlijk wat in contact gekomen met grafieken die een exponentiële evolutie symboliseren. In het geval van exponentiële groei doorheen de tijd betekent dit kortweg dat hetgeen getoond wordt steeds sneller zal toenemen. Wanneer we kijken naar de impact van een continue dagelijkse verbetering verschijnt een gelijkaardig patroon.
 
-**Grafiek exponentiële toename / afname**
+![](/images/een-jaar-van-dagelijkse-verandering.png)
 
-Een dagelijkse verbetering van 1% stelt op zichzelf niet veel voor, maar wanneer je erin slaagt om dit over lange tijd door te zetten, kan het opgebouwde effect enorm zijn.
+Een dagelijkse verbetering van 1% stelt op zichzelf niet veel voor, maar wanneer je erin slaagt om dit over lange tijd door te zetten, kan het opgebouwde effect enorm zijn. Bovenstaande voorstelling vertelt ons dat de beschouwde vaardigheid na een half jaar reeds zesmaal beter zal zijn, wanneer we uitgaan van een dagelijkse verbetering van 1%. Wanneer deze zelfde verbetering zich op deze manier blijft voorzetten, zal de vooruitgang in het komende half jaar echter een pak meer ingrijpend zijn.
 
-Een kleine kanttekening bij deze theorie is dat het natuurlijk na verloop van tijd moeilijker zal worden om die extra procent te vinden. Ik denk dus dat de groeicurve er in de praktijk eerder als volgt zal uitzien.
+Daarnaast toont de rode curve in bovenstaande afbeelding dat de grootte van de dagelijkse verbetering een enorme impact heeft op het eindresultaat.  Een halvering van de dagelijkse vooruitgang resulteert na een jaar in een eindresultaat dat zesmaal kleiner is.
+
+Een kleine kanttekening bij deze denkoefening is dat het natuurlijk na verloop van tijd moeilijker zal worden om die extra procent te vinden. Ik denk dus dat de groeicurve er in de praktijk eerder als volgt zal uitzien.
+
+![](/images/logistische-curve.png)
 
 Aan de start van het groeiproces is er nog veel laaghangend fruit beschikbaar, waardoor het makkelijker is om de dagelijkse groei op 1% te houden en de curve exponentieel stijgt. Wanneer je echter een niveau bereikt waar het een hele uitdaging wordt om nog extra te verbeteren, zal de snelheid van groei onvermijdelijk afnemen. Waar dat omslagpunt ligt is natuurlijk moeilijk te bepalen op voorhand.
 
