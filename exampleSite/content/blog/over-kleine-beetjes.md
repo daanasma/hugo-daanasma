@@ -2,7 +2,7 @@
 author = ["Daan Asma"]
 categories = []
 date = 2021-03-14T23:00:00Z
-description = “Kleine beetjes? Doet wel wat."
+description = "Kleine beetjes? Doet wel wat."
 image = "/images/road-to-freedom.jpg"
 tags = ["Avontuur", "Vertrek", "Comfortzone"]
 title = "Alle kleine beetjes helpen"
