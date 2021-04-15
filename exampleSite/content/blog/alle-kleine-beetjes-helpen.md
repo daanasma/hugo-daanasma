@@ -20,7 +20,7 @@ De afstand tussen België en Spanje lijkt groot, en uiteraard is ze dat ook, maa
 
 Een poosje terug las ik het boek [“Atomic Habits”](https://jamesclear.com/atomic-habits "Atomic Habits") van James Clear. Hij beschrijft op een heldere manier hoe onze levens voor een groot deel gevuld en gevormd worden door kleine gewoontes en hun gevolgen op lange termijn. Het resultaat van een eenmalige kleine actie is vaak beperkt, maar frequente herhaling ervan heeft een meervoudig effect. Enerzijds wordt na verloop van tijd de impact van elke nieuwe uitvoering iets groter: door herhaling en training schaaf je (meestal) je vaardigheden bij en word je effectiever in de uitvoering. Anderzijds stapelen ook de resultaten van die eerste uitvoeringen op. Bovendien gebeurt in het leven bijna niets zoals je het op voorhand voorspelt, en deze eerste kleine stappen zetten vaak onverwachte trajecten in beweging.
 
-> > _"Alle kleine beetjes helpen"_ - ons moeder
+> _"Alle kleine beetjes helpen"_ - ons moeder
 
 Samen met de observatie dat vele kleine beetjes over een lange periode opstapelen tot _een heleboel_, kunnen we ook stellen dat kleine _koersveranderingen_ na verloop van tijd een groot effect kunnen hebben. Om dit te illustreren roep ik graag de hulp in van misschien wel het meest spectaculaire voorbeeld van een reiziger die onverwachte dingen op zijn pad aantrof: Cristóbal Colón (of Christoffer Columbus, zoals wij hem beter kennen).
 
@@ -88,7 +88,7 @@ Deze metafoor kan helpen om te vertrouwen in een proces waarbij het niet meteen 
 
 Ook kan het helpen om de mensen in je omgeving beter te begrijpen. Quasi iedereen die een vaardigheid diep beheerst, is begonnen op een moment waar dat niet het geval is en heeft een groeipad moeten afleggen dat waarschijnlijk gepaard ging met vallen en opstaan. Uiteraard speelt bij de snelheid van bijleren ook het aspect van ‘natuurlijke aanleg’ een rol, maar als Jimi Hendrix niet zoveel tijd met zijn gitaar had doorgebracht, kon ik zijn liedjes waarschijnlijk wel spelen. Wanneer een doorbraak dus uit het niets lijkt te komen, is het boeiend om te beseffen dat er waarschijnlijk onder het oppervlak heel wat werk aan vooraf gegaan is.
 
-> Your outcomes are a lagging measure of your habits - James Clear
+> > _"_Your outcomes are a lagging measure of your habits_"_ - James Clear
 
 Het centrale thema van het boek “Atomic Habits” van James Clear (dat ik eerder al vermeldde) ligt in het belang van gewoontes en patronen (habits) om deze opstapelingseffecten te verwezenlijken. Hij beschrijft een heleboel eenvoudige werkwijzen en hulpmiddelen, zowel om gewenste patronen te creëren en te versterken als om negatieve gewoontes uit je leven weg te nemen. Zoals steeds bij dit soort werken is niet alles even bruikbaar, maar ik heb toch al het nut ondervonden van enkele technieken die ik dankzij dit boek opgepikt heb. Binnen zijn werkwijze ligt de voornaamste focus niet op “doelstellingen”, maar wel op “systemen”, met de onderliggende filosofie dat een goed werkend systeem op lange termijn ook zal resulteren in vooruitgang. Omgekeerd echter is het veel moeilijker om een duurzaam succes te kennen zonder ondersteunende systemen.
 
