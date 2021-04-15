@@ -1,37 +1,36 @@
 +++
+Draft = true
 author = ["Daan Asma"]
-categories = []
+categories = ["Persoonlijke groei", "Psychologie", "Essay"]
 date = 2021-03-14T23:00:00Z
 description = "Kleine beetjes? Doet wel wat."
-image = "/images/road-to-freedom.jpg"
-tags = ["Avontuur", "Vertrek", "Comfortzone"]
+image = ""
+tags = ["Verandering", "Atomic Habits", "Gewoontes"]
 title = "Alle kleine beetjes helpen"
-Draft = true
 
 +++
-
 ## Wat een enorme afstand!
 
-Wanneer ik met een volgeladen fiets een klein dorpje binnenrijd, is dat vaak een niet-zo-alledaagse gebeurtenis voor de lokale bevolking. Terwijl ik ergens op een bankje of terras uitpuf of mezelf trakteer op een welverdiende tas koffie komen mensen dan ook geregeld een praatje maken. Als ik hen vertel dat ik uit België kom en bovendien dat ik het hele traject al fietsend heb afgelegd, levert dat bijna altijd verbaasde blikken en reacties op. Mensen hebben heel vaak het gevoel dat je om een avontuur als het mijne te ondernemen een enorm goede fietser moet zijn, en dat het fysieke deel van de onderneming een quasi onoverkomelijke drempel is. 
-Hoe langer hoe meer ben ik er echter van overtuigd dat dat eigenlijk niet het geval is. Natuurlijk geeft het je een duwtje in de rug als je een getrainde fietser bent. Meer kracht en uithouding  helpen absoluut bij het afleggen van grotere afstanden. Het valt me echter op dat de meerderheid van de (eerder zeldzame) fietsreizigers die mijn pad kruisen eigenlijk geen *fietsers pur sang* zijn. Eerder zijn het reizigers die in de fiets het ideale vervoersmiddel hebben gevonden om op een onafhankelijke en intense manier onbekend terrein te verkennen. 
+Wanneer ik met een volgeladen fiets een klein dorpje binnenrijd, is dat vaak een niet-zo-alledaagse gebeurtenis voor de lokale bevolking. Terwijl ik ergens op een bankje of terras uitpuf of mezelf trakteer op een welverdiende tas koffie komen mensen dan ook geregeld een praatje maken. Als ik hen vertel dat ik uit België kom en bovendien dat ik het hele traject al fietsend heb afgelegd, levert dat bijna altijd verbaasde blikken en reacties op. Mensen hebben heel vaak het gevoel dat je om een avontuur als het mijne te ondernemen een enorm goede fietser moet zijn, en dat het fysieke deel van de onderneming een quasi onoverkomelijke drempel is.
+Hoe langer hoe meer ben ik er echter van overtuigd dat dat eigenlijk niet het geval is. Natuurlijk geeft het je een duwtje in de rug als je een getrainde fietser bent. Meer kracht en uithouding  helpen absoluut bij het afleggen van grotere afstanden. Het valt me echter op dat de meerderheid van de (eerder zeldzame) fietsreizigers die mijn pad kruisen eigenlijk geen _fietsers pur sang_ zijn. Eerder zijn het reizigers die in de fiets het ideale vervoersmiddel hebben gevonden om op een onafhankelijke en intense manier onbekend terrein te verkennen.
 
-Volgens mij is het eigenlijke fietsen helemaal niet de grootste uitdaging is aan dit type reis. Wanneer je moe bent, kan je namelijk altijd de dag altijd afronden en uitrusten. Ik bedenk me regelmatig dat het bijlange niet zeker dat *echte fietsers* zouden genieten van dit soort avontuur, aangezien het *afzien* in andere aspecten dan het fysieke ligt.
+Volgens mij is het eigenlijke fietsen helemaal niet de grootste uitdaging is aan dit type reis. Wanneer je moe bent, kan je namelijk altijd de dag altijd afronden en uitrusten. Ik bedenk me regelmatig dat het bijlange niet zeker dat _echte fietsers_ zouden genieten van dit soort avontuur, aangezien het _afzien_ in andere aspecten dan het fysieke ligt.
 
-De afstand tussen België en Spanje lijkt groot, en uiteraard is ze dat ook, maar wanneer je dit bekijkt in het kader van hoeveel dagen ik effectief gefietst heb, valt het op dat het eigenlijk niet om onmogelijke afstanden gaat. 
-Ik herinner me dat ik tijdens de eerste weken van mijn tocht heel wat meer moeite had met het afleggen van kilometers en dat ik ‘s avonds vaak helemaal uitgeput was. Elke dag verbeterde ik echter in zowel het fietsen en alles wat errond komt kijken. Het opzetten van mijn tent kostte na verloop van tijd minder tijd en energie, ik sliep steeds minder onrustig (en dus beter), mijn benen (en heel wat andere lichaamsdelen) werden sterker, ik leerde welk soort voeding mijn lichaam nodig had en zoveel meer. 
+De afstand tussen België en Spanje lijkt groot, en uiteraard is ze dat ook, maar wanneer je dit bekijkt in het kader van hoeveel dagen ik effectief gefietst heb, valt het op dat het eigenlijk niet om onmogelijke afstanden gaat.
+Ik herinner me dat ik tijdens de eerste weken van mijn tocht heel wat meer moeite had met het afleggen van kilometers en dat ik ‘s avonds vaak helemaal uitgeput was. Elke dag verbeterde ik echter in zowel het fietsen en alles wat errond komt kijken. Het opzetten van mijn tent kostte na verloop van tijd minder tijd en energie, ik sliep steeds minder onrustig (en dus beter), mijn benen (en heel wat andere lichaamsdelen) werden sterker, ik leerde welk soort voeding mijn lichaam nodig had en zoveel meer.
 Niet alleen kostte het me minder en minder moeite om vooruit te komen, ook de afstand die ik intussen al afgelegd had was intussen al aanzienlijk.
 
 ## Opstapelen
 
-Een poosje terug las ik het boek “Atomic Habits” van James Clear. Hij beschrijft op een heldere manier hoe onze levens voor een groot deel gevuld en gevormd worden door gewoontes en hun gevolgen op lange termijn. Het resultaat van een eenmalige kleine actie is vaak beperkt, maar frequente herhaling ervan heeft een meervoudig effect. Enerzijds wordt na verloop van tijd de impact van elke nieuwe uitvoering iets groter: door herhaling en training schaaf je (meestal) je vaardigheden bij en word je effectiever in de uitvoering. Anderzijds stapelen ook de resultaten van die eerste uitvoeringen op. Bovendien gebeurt in het leven bijna niets zoals je het op voorhand voorspelt, en deze eerste kleine stappen zetten vaak onverwachte trajecten in beweging. 
+Een poosje terug las ik het boek “Atomic Habits” van James Clear. Hij beschrijft op een heldere manier hoe onze levens voor een groot deel gevuld en gevormd worden door gewoontes en hun gevolgen op lange termijn. Het resultaat van een eenmalige kleine actie is vaak beperkt, maar frequente herhaling ervan heeft een meervoudig effect. Enerzijds wordt na verloop van tijd de impact van elke nieuwe uitvoering iets groter: door herhaling en training schaaf je (meestal) je vaardigheden bij en word je effectiever in de uitvoering. Anderzijds stapelen ook de resultaten van die eerste uitvoeringen op. Bovendien gebeurt in het leven bijna niets zoals je het op voorhand voorspelt, en deze eerste kleine stappen zetten vaak onverwachte trajecten in beweging.
 
-> *Alle kleine beetjes helpen* - ons moeder
+> _Alle kleine beetjes helpen_ - ons moeder
 
-Samen met de observatie dat vele kleine beetjes over een lange periode opstapelen tot *een heleboel*, kunnen we ook stellen dat kleine *koersveranderingen* na verloop van tijd een groot effect kunnen hebben. Om dit te illustreren roep ik graag de hulp in van misschien wel het meest spectaculaire voorbeeld van een reiziger die onverwachte dingen op zijn pad aantrof: Cristóbal Colón (of Christoffer Columbus, zoals wij hem beter kennen).
+Samen met de observatie dat vele kleine beetjes over een lange periode opstapelen tot _een heleboel_, kunnen we ook stellen dat kleine _koersveranderingen_ na verloop van tijd een groot effect kunnen hebben. Om dit te illustreren roep ik graag de hulp in van misschien wel het meest spectaculaire voorbeeld van een reiziger die onverwachte dingen op zijn pad aantrof: Cristóbal Colón (of Christoffer Columbus, zoals wij hem beter kennen).
 
-Na zijn vertrek in Andalusië zeilde Colón naar de Canarische Eilanden, van waar zijn schepen de Atlantische Oceaan zouden oversteken naar Azië via een onontdekte, hypothetische westelijke vaarroute. Iets meer dan een maand na vertrek vanop deze eilanden weerklonk de Spaanse versie van 'Land in zicht!' en arriveerde de groep ontdekkingsreizigers op één van de eilanden die we nu kennen als de Bahama's. Ze hadden eindelijk India bereikt en schonken ze de naam *Indianen* aan hun warme welkomstcomité.
+Na zijn vertrek in Andalusië zeilde Colón naar de Canarische Eilanden, van waar zijn schepen de Atlantische Oceaan zouden oversteken naar Azië via een onontdekte, hypothetische westelijke vaarroute. Iets meer dan een maand na vertrek vanop deze eilanden weerklonk de Spaanse versie van 'Land in zicht!' en arriveerde de groep ontdekkingsreizigers op één van de eilanden die we nu kennen als de Bahama's. Ze hadden eindelijk India bereikt en schonken ze de naam _Indianen_ aan hun warme welkomstcomité.
 
-Laten we nu even een gedachtenexperiment uitvoeren waarin Columbus: 
+Laten we nu even een gedachtenexperiment uitvoeren waarin Columbus:
 effectief wist waarmee hij bezig was,
 de huidige kennis had over de werking van het kompas,
 zijn overtocht uitvoerde in een rechte lijn.
@@ -42,17 +41,15 @@ Beeld je even in dat hij aan de vooravond van zijn vertrek had besloten om een k
 
 Niet bijster veel dus.
 
-Wanneer we deze afwijking echter doortrekken over de volledige oversteek van de Atlantische Oceaan, krijgen we een ander beeld.Onderstaand kaartje toont aan dat de eerste kustlijn aan de horizon in dat geval in het midden van het huidige Florida lag. 
+Wanneer we deze afwijking echter doortrekken over de volledige oversteek van de Atlantische Oceaan, krijgen we een ander beeld.Onderstaand kaartje toont aan dat de eerste kustlijn aan de horizon in dat geval in het midden van het huidige Florida lag.
 
-
-
-Een minieme verandering in *richting* resulteert in een verschil van enkele honderden kilometers, en dat zou waarschijnlijk een behoorlijke invloed hebben gehad op de geschiedenis van de Nieuwe Wereld.
+Een minieme verandering in _richting_ resulteert in een verschil van enkele honderden kilometers, en dat zou waarschijnlijk een behoorlijke invloed hebben gehad op de geschiedenis van de Nieuwe Wereld.
 
 Dit beeld is voor mij een handig hulpmiddel om op een iets andere manier naar mijn eigen leven en leefwereld te kijken. Zoals bij al dit soort metaforen is het natuurlijk belangrijk te beseffen dat dit niet 'de waarheid' voorstelt. Wel kan het een mogelijkheid tot bijleren zijn.
 
 Het afgelopen jaar zijn we met z’n allen (helaas) heel wat in contact gekomen met grafieken die een exponentiële evolutie symboliseren. In het geval van exponentiële groei doorheen de tijd betekent dit kortweg dat hetgeen getoond wordt steeds sneller zal toenemen. Wanneer we kijken naar de impact van een dagelijkse verbetering verschijnt een gelijkaardig patroon.
 
-Grafiek exponentiële toename / afname
+**Grafiek exponentiële toename / afname**
 
 Een dagelijkse verbetering van 1% stelt op zichzelf niet veel voor, maar wanneer je erin slaagt om dit over lange tijd door te zetten, kan het opgebouwde effect enorm zijn.
 
@@ -60,7 +57,7 @@ Een kleine kanttekening bij deze theorie is dat het natuurlijk na verloop van ti
 
 Aan de start van het groeiproces is er nog veel laaghangend fruit beschikbaar, waardoor het makkelijker is om de dagelijkse groei op 1% te houden en de curve exponentieel stijgt. Wanneer je echter een niveau bereikt waar het een hele uitdaging wordt om nog extra te verbeteren, zal de snelheid van groei onvermijdelijk afnemen. Waar dat omslagpunt ligt is natuurlijk moeilijk te bepalen op voorhand.
 
-Dit principe lijkt trouwens heel fel op de manier waarop in de ecologie en biologie naar [populatiegroei]( https://youtu.be/ozW7y-y6Ymw "Draagkracht en populatiegroei") gekeken wordt. Dat even terzijde.
+Dit principe lijkt trouwens heel fel op de manier waarop in de ecologie en biologie naar [populatiegroei](https://youtu.be/ozW7y-y6Ymw "Draagkracht en populatiegroei") gekeken wordt. Dat even terzijde.
 
 ## In het dagelijkse leven
 
@@ -72,25 +69,24 @@ Als je elke dag eenzelfde kleine taak uitvoert, zal je hier waarschijnlijk doorh
 
 Tot nu toe hadden we het steeds over verbeteringen en groei, maar zoals iedereen weet is het leven geen ponykamp en zijn er ook periodes waarin het moeilijker gaat. Ook hier kan hetzelfde principe toegepast worden, zij het in de andere richting.
 
-Kleine stressperiodes zijn op zich niet zo'n probleem en meestal kunnen we hier vrij goed mee omgaan. Maar wanneer bepaalde zorgen blijven aanslepen, kunnen ze een zelfversterkend effect krijgen. Je kan zo in een vicieuze cirkel belanden waar de kwaliteit van je handelen afneemt door de stress, wat je mogelijk meer stress oplevert. Deze mentale druk heeft soms ook een fysieke doorslag, en lichamelijke kwaaltjes hebben natuurlijk op hun beurt een effect op de moraal. 
-Een negatief zelfbeeld treedt vaak als een *self-fulfilling prophecy* op. Wat kritische zelfreflectie kan natuurlijk op zich geen kwaad. Wanneer je jezelf echter steeds op een bepaalde manier bekijkt (waardeloos, dom, dik, angstig, …), leer je op een manier jezelf aan om het leven vanuit dat kader te bekijken. Dat kan ervoor zorgen dat je je net zo gaat gedragen als je van jezelf verwacht in deze nieuwe context, wat dan weer voor een verdere verlaging van het zelfbeeld kan zorgen.
+Kleine stressperiodes zijn op zich niet zo'n probleem en meestal kunnen we hier vrij goed mee omgaan. Maar wanneer bepaalde zorgen blijven aanslepen, kunnen ze een zelfversterkend effect krijgen. Je kan zo in een vicieuze cirkel belanden waar de kwaliteit van je handelen afneemt door de stress, wat je mogelijk meer stress oplevert. Deze mentale druk heeft soms ook een fysieke doorslag, en lichamelijke kwaaltjes hebben natuurlijk op hun beurt een effect op de moraal.
+Een negatief zelfbeeld treedt vaak als een _self-fulfilling prophecy_ op. Wat kritische zelfreflectie kan natuurlijk op zich geen kwaad. Wanneer je jezelf echter steeds op een bepaalde manier bekijkt (waardeloos, dom, dik, angstig, …), leer je op een manier jezelf aan om het leven vanuit dat kader te bekijken. Dat kan ervoor zorgen dat je je net zo gaat gedragen als je van jezelf verwacht in deze nieuwe context, wat dan weer voor een verdere verlaging van het zelfbeeld kan zorgen.
 Iets gelijkaardigs kan gezegd worden over de manier waarop je naar anderen kijkt. Wanneer je je ergert aan een bepaalde gedraging van een collega/partner/vriend gebeurt het vaak dat je voor jezelf de aandacht legt op dit detail. Door deze fixatie gaat het je nog sterker opvallen en kan je ergernis nog toenemen. Bovendien denk ik dat het gedrag van anderen hierdoor ook beïnvloed wordt, aangezien wij allen biologisch zijn voorgeprogrammeerd om te voldoen aan verwachtingen van anderen.
 Maatschappelijke uitbarstingen van woede en protest zijn heel zelden een gevolg van 1 geïsoleerde oorzaak - al worden ze wel vaak zo voorgesteld - maar van een opgebouwde frustratie doorheen vaak lange tijd.
 
-Eén van de grootste uitdagingen die bij dit soort patronen komt kijken ligt in het feit dat de resultaten van je acties pas na een aantal herhalingen écht zicht- en tastbaar worden. 
-Beeld je in dat je een ijsblok in een afgesloten ruimte legt, bij een temperatuur van -10°C. 
+Eén van de grootste uitdagingen die bij dit soort patronen komt kijken ligt in het feit dat de resultaten van je acties pas na een aantal herhalingen écht zicht- en tastbaar worden.
+Beeld je in dat je een ijsblok in een afgesloten ruimte legt, bij een temperatuur van -10°C.
 Vervolgens warm je deze kamer elke dag met 2°C op.
-
 
 Zou je hier zeggen dat je acties enkel op dag 7 een effect hadden? Wanneer je enkel naar de zichtbare resultaten kijkt, wat heel vaak je enige bron van informatie is, lijkt dit misschien het geval te zijn. Maar zonder de voorbereidende opwarming vrees ik dat de ijsblok op de zevende dag in rust was gebleven.
 
-{{% notice wander %}} Wanneer de weervrouw het over het vriespunt heeft, is het duidelijk dat ze daarmee 0° Celsius bedoelt. Maar wat is eigenlijk de vorm van water op exact deze temperatuur? 
+{{% notice wander %}} Wanneer de weervrouw het over het vriespunt heeft, is het duidelijk dat ze daarmee 0° Celsius bedoelt. Maar wat is eigenlijk de vorm van water op exact deze temperatuur?
 <br><br>
 We weten allemaal dat vloeibaar water in ijs verandert wanneer de temperatuur onder het vriespunt zakt, net zoals we ook weten dat ijs smelt als de temperatuur positief wordt. Maar wat gebeurt er eigenlijk op het overgangspunt?
 <br><br>
 https://www.quora.com/What-is-the-state-of-water-at-0-degree-celsius
-<br>NB. Voor het gemak heb ik even de impact van luchtdruk buiten beschouwing gelaten en ben ik ervan uitgegaan dat we het hebben over een situatie met 
-[*"atmosferische standaardomstandigheden"*](https://nl.wikipedia.org/wiki/Standaardomstandigheden "Wikipedia Standaardomstandigheden"). <br>
+<br>NB. Voor het gemak heb ik even de impact van luchtdruk buiten beschouwing gelaten en ben ik ervan uitgegaan dat we het hebben over een situatie met
+[_"atmosferische standaardomstandigheden"_](https://nl.wikipedia.org/wiki/Standaardomstandigheden "Wikipedia Standaardomstandigheden"). <br>
 <small>Tip: druk niet op bovenstaande link, aanvaard even dat het allemaal complexer is dan je in je hoofd had en vermijd een vicieuze cirkel van opzoekwerk en heel wat geopende browsertabs. <small>
 {{% /notice %}}
 
@@ -100,8 +96,9 @@ Ook kan het helpen om de mensen in je omgeving beter te begrijpen. Quasi iederee
 
 > Your outcomes are a lagging measure of your habits - James Clear
 
-Het centrale thema van het boek “Atomic Habits” van James Clear (dat ik eerder al vermeldde) ligt in het belang van gewoontes en patronen (habits) om deze opstapelingseffecten te verwezenlijken. Hij beschrijft een heleboel eenvoudige werkwijzen en hulpmiddelen, zowel om gewenste patronen te creëren en te versterken als om negatieve gewoontes uit je leven weg te nemen. Zoals steeds bij dit soort werken is niet alles even bruikbaar, maar ik heb toch al het nut ondervonden van enkele technieken die ik dankzij dit boek opgepikt heb. Binnen zijn werkwijze ligt de voornaamste focus niet op “doelstellingen”, maar wel op “systemen”, met de onderliggende filosofie dat een goed werkend systeem op lange termijn ook zal resulteren in vooruitgang. Omgekeerd echter is het veel moeilijker om een duurzaam succes te kennen zonder ondersteunende systemen. 
-Zoals ik eerder al vertelde in [De kunst van het vertrekken](/blog/kunst-van-het-vertrekken/ "De kunst van het vertrekken") kan het een hele inspanning zijn om in beweging te komen. Maar zoals menig verscheurd goede-voornemens-lijstje in het verleden al bewezen heeft, is volhouden vaak een minstens even grote uitdaging. Wondermiddelen bestaan niet, maar goede technieken kunnen je wel enorm helpen om op jouw pad te komen en er bovendien te blijven. 
+Het centrale thema van het boek “Atomic Habits” van James Clear (dat ik eerder al vermeldde) ligt in het belang van gewoontes en patronen (habits) om deze opstapelingseffecten te verwezenlijken. Hij beschrijft een heleboel eenvoudige werkwijzen en hulpmiddelen, zowel om gewenste patronen te creëren en te versterken als om negatieve gewoontes uit je leven weg te nemen. Zoals steeds bij dit soort werken is niet alles even bruikbaar, maar ik heb toch al het nut ondervonden van enkele technieken die ik dankzij dit boek opgepikt heb. Binnen zijn werkwijze ligt de voornaamste focus niet op “doelstellingen”, maar wel op “systemen”, met de onderliggende filosofie dat een goed werkend systeem op lange termijn ook zal resulteren in vooruitgang. Omgekeerd echter is het veel moeilijker om een duurzaam succes te kennen zonder ondersteunende systemen.
+Zoals ik eerder al vertelde in [De kunst van het vertrekken](/blog/kunst-van-het-vertrekken/ "De kunst van het vertrekken") kan het een hele inspanning zijn om in beweging te komen. Maar zoals menig verscheurd goede-voornemens-lijstje in het verleden al bewezen heeft, is volhouden vaak een minstens even grote uitdaging. Wondermiddelen bestaan niet, maar goede technieken kunnen je wel enorm helpen om op jouw pad te komen en er bovendien te blijven.
+
+En als je een tijdje op dat pad blijft en volhoudt, volgt de rest wel.
 
 > A year from now you will wish you had started today -  Karen Lamb
-
