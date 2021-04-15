@@ -2,8 +2,8 @@
 Draft = true
 author = ["Daan Asma"]
 categories = ["Persoonlijke groei", "Psychologie", "Essay"]
-date = 2021-04-15T17:00:00Z
-description = "Kleine beetjes? Doet wel wat."
+date = 2021-04-15T16:00:00Z
+description = "Wanneer ik zeg dat ik van België naar Spanje fietste, lijkt dat een quasi onmogelijke prestatie. Maar is dat wel zo?"
 draft = true
 image = "/images/school_visjes_mexico_small.jpg"
 tags = ["Verandering", "Atomic Habits", "Gewoontes"]
