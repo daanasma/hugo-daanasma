@@ -88,7 +88,7 @@ Deze metafoor kan helpen om te vertrouwen in een proces waarbij het niet meteen 
 
 Ook kan het helpen om de mensen in je omgeving beter te begrijpen. Quasi iedereen die een vaardigheid diep beheerst, is begonnen op een moment waar dat niet het geval is en heeft een groeipad moeten afleggen dat waarschijnlijk gepaard ging met vallen en opstaan. Uiteraard speelt bij de snelheid van bijleren ook het aspect van ‘natuurlijke aanleg’ een rol, maar als Jimi Hendrix niet zoveel tijd met zijn gitaar had doorgebracht, kon ik zijn liedjes waarschijnlijk wel spelen. Wanneer een doorbraak dus uit het niets lijkt te komen, is het boeiend om te beseffen dat er waarschijnlijk onder het oppervlak heel wat werk aan vooraf gegaan is.
 
-> _"_Your outcomes are a lagging measure of your habits_"_ - James Clear
+> "Your outcomes are a lagging measure of your habits" - James Clear
 
 Het centrale thema van het boek “Atomic Habits” van James Clear (dat ik eerder al vermeldde) ligt in het belang van gewoontes en patronen (habits) om deze opstapelingseffecten te verwezenlijken. Hij beschrijft een heleboel eenvoudige werkwijzen en hulpmiddelen, zowel om gewenste patronen te creëren en te versterken als om negatieve gewoontes uit je leven weg te nemen. Zoals steeds bij dit soort werken is niet alles even bruikbaar, maar ik heb toch al het nut ondervonden van enkele technieken die ik dankzij dit boek opgepikt heb. Binnen zijn werkwijze ligt de voornaamste focus niet op “doelstellingen”, maar wel op “systemen”, met de onderliggende filosofie dat een goed werkend systeem op lange termijn ook zal resulteren in vooruitgang. Omgekeerd echter is het veel moeilijker om een duurzaam succes te kennen zonder ondersteunende systemen.
 
@@ -98,7 +98,7 @@ Wondermiddelen bestaan niet, maar goede technieken kunnen je wel enorm helpen om
 
 En als je een tijdje op dat pad blijft en volhoudt, volgt de rest wel. Beetje bij beetje.
 
-> _"_A year from now you will wish you had started today_"_ -  Karen Lamb
+> "A year from now you will wish you had started today" -  Karen Lamb
 
 _Interesse in het concept van Atomic Habits?_ [_Hier_](https://www.youtube.com/watch?v=mNeXuCYiE0U "Talk Atomic Habits - James Clear") _vind je een video waar de auteur zijn inzichten helder uitlegt._
 
