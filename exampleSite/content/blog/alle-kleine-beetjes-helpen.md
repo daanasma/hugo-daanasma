@@ -33,18 +33,19 @@ Anderzijds stapelen ook de resultaten van die eerste uitvoeringen op. Bovendien 
 
 Samen met de observatie dat vele kleine beetjes over een lange periode opstapelen tot _een heleboel_, kunnen we ook stellen dat kleine _koersveranderingen_ na verloop van tijd een groot effect kunnen hebben. Om dit te illustreren roep ik graag de hulp in van misschien wel het meest spectaculaire voorbeeld van een reiziger die onverwachte dingen op zijn pad aantrof: Cristóbal Colón (of Christoffer Columbus, zoals wij hem beter kennen).
 
-Na zijn vertrek in Andalusië zeilde Colón naar de Canarische Eilanden, van waar zijn schepen de Atlantische Oceaan zouden oversteken naar Azië via een onontdekte, hypothetische westelijke vaarroute. Iets meer dan een maand na vertrek vanop deze eilanden weerklonk de Spaanse versie van 'Land in zicht!' en arriveerde de groep ontdekkingsreizigers op één van de eilanden die we nu kennen als de Bahama's. Ze hadden eindelijk India bereikt en schonken ze de naam _Indianen_ aan hun warme welkomstcomité.
+Na zijn vertrek in Andalusië zeilde Colón naar de Canarische Eilanden. Van deze archipel zouden zijn schepen de Atlantische Oceaan oversteken naar Azië via een onontdekte, hypothetische westelijke vaarroute. Iets meer dan een maand na vertrek vanop deze eilanden weerklonk de Spaanse versie van "Land in zicht!" en arriveerde de groep ontdekkingsreizigers op één van de eilanden die we nu kennen als de Bahama's. Ze hadden eindelijk India bereikt en daarom schonken ze de naam _Indianen_ aan hun warme welkomstcomité.
 
 Laten we nu even een gedachtenexperiment uitvoeren waarin Columbus:
-effectief wist waarmee hij bezig was,
-de huidige kennis had over de werking van het kompas,
-zijn overtocht uitvoerde in een rechte lijn.
+* effectief wist waarmee hij bezig was,
+* de huidige kennis had over de werking van het kompas,
+* zijn overtocht uitvoerde in een rechte lijn.
 
-Beeld je even in dat hij aan de vooravond van zijn vertrek had besloten om een koers te volgen die 3° meer naar het noorden gericht was. Dit tijdloze pennenzakattribuut kan je misschien helpen met de inschatting van de grootte 3°.
+Beeld je even in dat hij aan de vooravond van zijn vertrek had besloten om een koers te volgen die 3° meer naar het noorden gericht was. Dit tijdloze pennenzakattribuut kan je misschien helpen met de inschatting van de grootte van 3°.
 
-![](/images/geodriehoek.jpg)Niet bijster veel dus.
+![](/images/geodriehoek.jpg)
+Niet bijster veel dus.
 
-Wanneer we deze afwijking echter doortrekken over de volledige oversteek van de Atlantische Oceaan, krijgen we een ander beeld.Onderstaand kaartje toont aan dat de eerste kustlijn aan de horizon in dat geval in het midden van het huidige Florida lag.
+Wanneer we deze afwijking echter doortrekken over de volledige oversteek van de Atlantische Oceaan, krijgen we een ander beeld. Onderstaand kaartje toont aan dat de eerste kustlijn aan de horizon in dat geval in het midden van het huidige Florida zou gelegen hebben.
 
 ![](/images/columbus-3-difference.jpg)
 
@@ -58,7 +59,7 @@ Het afgelopen jaar zijn we met z’n allen (helaas) behoorlijk wat in contact ge
 
 Een dagelijkse verbetering van 1% stelt op zichzelf niet veel voor, maar wanneer je erin slaagt om dit over lange tijd door te zetten, kan het opgebouwde effect enorm zijn. Bovenstaande voorstelling vertelt ons dat de beschouwde vaardigheid na een half jaar reeds zesmaal beter zal zijn, wanneer we uitgaan van een dagelijkse verbetering van 1%. Wanneer deze zelfde verbetering zich op deze manier blijft voorzetten, zal de vooruitgang in het komende half jaar echter een pak meer ingrijpend zijn.
 
-Daarnaast toont de rode curve in bovenstaande afbeelding dat de grootte van de dagelijkse verbetering een enorme impact heeft op het eindresultaat.  Een halvering van de dagelijkse vooruitgang resulteert na een jaar in een eindresultaat dat zesmaal kleiner is.
+Daarnaast toont de rode curve dat de grootte van de dagelijkse verbetering een enorme impact heeft op het eindresultaat. Een halvering van de dagelijkse vooruitgang resulteert na een jaar in een eindresultaat dat zesmaal kleiner is.
 
 Een kleine kanttekening bij deze denkoefening is dat het natuurlijk na verloop van tijd moeilijker zal worden om die extra procent te vinden. Ik denk dus dat de groeicurve er in de praktijk eerder als volgt zal uitzien.
 
@@ -66,7 +67,7 @@ Een kleine kanttekening bij deze denkoefening is dat het natuurlijk na verloop v
 
 Aan de start van het groeiproces is er nog veel laaghangend fruit beschikbaar, waardoor het makkelijker is om de dagelijkse groei op 1% te houden en de curve exponentieel stijgt. Wanneer je echter een niveau bereikt waar het een hele uitdaging wordt om nog extra te verbeteren, zal de snelheid van groei onvermijdelijk afnemen. Waar dat omslagpunt ligt is natuurlijk moeilijk te bepalen op voorhand.
 
-Dit principe lijkt trouwens heel fel op de manier waarop in de ecologie en biologie naar [populatiegroei](https://youtu.be/ozW7y-y6Ymw "Draagkracht en populatiegroei") gekeken wordt. Dat even terzijde.
+Dit principe lijkt trouwens heel fel op de manier waarop in de ecologie en biologie naar [populatiegroei](https://youtu.be/ozW7y-y6Ymw "Draagkracht en populatiegroei") gekeken wordt. Boeiend, maar dat even terzijde.
 
 ## In het dagelijkse leven
 
