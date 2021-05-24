@@ -1,7 +1,7 @@
 +++
 author = ["Daan Asma"]
 categories = ["Psychologie", "Essay", "Persoonlijke groei"]
-date = 2021-05-22T23:00:00Z
+date = 2021-05-23T23:00:00Z
 description = "meta"
 image = "/images/kaart_agua_negra.png"
 tags = ["Ecosysteem", "Watts", "Taleb", "Antifragiel", "Onzekerheid"]
@@ -43,7 +43,7 @@ Bovenstaande scène (wordt vervolgd) ligt inmiddels al een hele poos in het verl
 
 Gaandeweg heb ik ondervonden dat deze aanpak ervoor zorgt dat de ervaring voor mij optimaal is. De aandacht die ik niet besteed aan het creëren en volgen van een vastgelegd traject en schema kan ik spenderen aan het hier en nu: de mensen, plaatsen en gebeurtenissen die op mijn pad verschijnen. Aangezien er voortdurend verrassingen opduiken, zou het bovendien heel veel energie en tijd kosten om dit hypothetisch plan up-to-date te houden en de zo ‘controle’ over mijn reis te behouden. De spontaniteit en de spanning van enkele avonturen die ik meemaakte (de ziel van het gebeuren) kunnen bovendien op geen enkele manier gepland worden .
 
->> It is absurd to plan for a future which, when it comes to me, will find me “absent”, looking fixedly over its shoulder instead of into its face - Alan Watts
+> > It is absurd to plan for a future which, when it comes to me, will find me “absent”, looking fixedly over its shoulder instead of into its face - Alan Watts
 
 Ik vraag me soms af waarom het me lukt om op deze manier te reizen, en waarom ik tot nu toe eigenlijk heel weinig mensen heb ontmoet die het op een gelijkaardige manier aanpakken. Het voelt voor mij niet aan dat ik extreme dingen doe, maar langs de andere kant is het natuurlijk ook niet je standaard strandvakantie. Dit soort tocht is zeker niet voor iedereen weggelegd, maar mensen vertellen me wel regelmatig dat ze gelijkaardige avonturen (hadden) willen ondernemen maar dat het er uiteindelijk niet van komt. Als ik deze vraag bekijk vanuit het spectrum [comfort-stretch-paniek](/blog/kunst-van-het-vertrekken "Kunst van het vertrekken"), denk ik dat ik op verschillende niveau’s kan begrijpen waarom het voor mij alvast niet (meer) onmogelijk aanvoelde om eraan te beginnen:
 
@@ -128,7 +128,7 @@ Taleb geeft in zijn vervolgwerk 'Antifragile: Things that gain from disorder' aa
 
 Beter.
 
-{{< % notice wander % >}}
+{{% notice wander %}}
 
 Om het begrip ‘antifragiliteit’ wat beter te leren kennen, doen we een beroep op de klassieke mythologie. In zijn queeste naar onsterfelijkheid begon de Griekse held Hercules aan zijn beroemde ‘12 werken’. Nadat hij in zijn eerste opdracht de Nemeïsche leeuw wist te verschalken, kreeg hij van koning Eurystheus de opdracht om het op te nemen tegen de Hydra van Lerna. Deze meerkoppige moordzuchtige slang leefde in de buurt van het Lerna-meer, een moerasgebied gevuld met giftige dampen dat bovendien dienst deed als één van de toegangspoorten naar de onderwereld.
 
@@ -140,7 +140,7 @@ Via de overige koppen ontketende de Hydra een symphonie aan geschreeuw, maar Her
 
 Hercules zou Hercules natuurlijk niet zijn als hij hier geen oplossing op vond en hij riep de hulp van zijn neefje Iolaus in. Na elke onthoofding kreeg Iolaus de opdracht om met een brandende toorts de wonde dicht te schroeien, zodat er geen nieuwe hoofden konden verschijnen. Na een helse strijd slaagde het duo er op die manier uiteindelijk in om het monster te vellen, zodat Hercules een stap dichter bij onsterfelijkheid kwam.
 
-{{< % /notice % >}}
+{{% /notice %}}
 
 De Hydra van Lerna is het schoolvoorbeeld van een antifragiel systeem: bij elke klap die ze krijgt, wordt ze sterker en sterker. Een fragiele versie van het monster zou daarentegen zwakker worden bij elke onthoofding, terwijl een robuust exemplaar zichzelf bijvoorbeeld zou verdedigen met een quasi ondoordringbaar schild. Ook antifragiele systemen kunnen uiteindelijk ten onder gaan, maar deze legende illustreert mooi dat dat niet gebeurt bij het verhogen van de uitwendige druk.
 
@@ -169,7 +169,7 @@ In het dierenrijk is elke soort op zoek naar een comfortabele situatie waarin ze
 
 De realiteit komt echter maar heel zelden overeen met dit ideaalbeeld. Onze omgeving - de natuur waar ook wij deel van uitmaken - is namelijk helemaal geen statisch geheel. Alles is permanent in beweging, en elke verandering in het systeem ‘Aarde’ heeft een impact op andere plaatsen in de cyclus. Op dezelfde manier heeft ook elke gebeurtenis in ons leven een impact, met mogelijk kleine en grote veranderingen tot gevolg. De wetenschap heeft tot op een bepaald niveau een analytische kennis opgebouwd van hoe de afzonderlijke componenten in de natuur werken en hoe ze invloed op elkaar uitoefenen, en het is enorm boeiend om bij te leren over de ongelooflijke manieren waarop alles met elkaar verbonden is. Hoe meer we echter bijleren over de wonderen van de natuur, hoe meer ook duidelijk wordt dat er nog een veelheid aan processen is die we niet kennen of begrijpen.
 
-{{< % notice wander % >}}
+{{% notice wander %}}
 
 Het systeem ‘Aarde’ bestaat uit een hypercomplexe ketting van wisselwerkingen en kleine ‘schokjes’ in alle richtingen, aangezien natuurlijke processen eigenlijk een constante evolutie naar (een nooit bereikbaar) evenwicht zijn. Een klein - heel sterk vereenvoudigd en hypothetisch - voorbeeld:
 
@@ -191,7 +191,7 @@ Je zou een heel boek kunnen schrijven over dit soort interacties, aangezien elke
 
 ![](https://lh3.googleusercontent.com/MhIwEMA3wNEv2dKMVkw9R9-hlIAubrTuxCRuyFlogCaHPGib0afulIrPhSQ_bqJzR4XwtFWIEx_OGl1cWu8RpLBtycVyYi7HoYoxIdIgMo-eHdzDp4RQvDKwrdOKFv-9pHWZoO3o =602x309)
 
-{{< % /notice % >}}
+{{% /notice %}}
 
 Deze natuurlijke fluctuaties draaien misschien minder positief uit voor afzonderlijke delen van het systeem, maar op de lange termijn zorgen ze er wel voor dat het geheel ‘gezond’ blijft en zelfs sterker wordt. Kleine schommelingen zijn mogelijkheden voor een ecosysteem om ‘bij te leren’.
 
