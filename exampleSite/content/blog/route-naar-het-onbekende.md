@@ -295,3 +295,5 @@ De manier waarop dit alles evolueerde is volgens mij een perfecte illustratie va
 Tweemaal zochten we een grote onzekerheid op, terwijl op beide plaatsen ons negatief risico beperkt was. Als het universum meewerkt op zo’n momenten, is er veel mogelijk.
 
 Een antifragiele dag.
+
+***
