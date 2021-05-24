@@ -167,7 +167,8 @@ De realiteit komt echter maar heel zelden overeen met dit ideaalbeeld. Onze omge
 
 {{% notice wander %}}
 
-Het systeem ‘Aarde’ bestaat uit een hypercomplexe ketting van wisselwerkingen en kleine ‘schokjes’ in alle richtingen, aangezien natuurlijke processen eigenlijk een constante evolutie naar (een nooit bereikbaar) evenwicht zijn. Een klein - heel sterk vereenvoudigd en hypothetisch - voorbeeld:  
+Het systeem ‘Aarde’ bestaat uit een hypercomplexe ketting van wisselwerkingen en kleine ‘schokjes’ in alle richtingen, aangezien natuurlijke processen eigenlijk een constante evolutie naar (een nooit bereikbaar) evenwicht zijn. Een klein - heel sterk vereenvoudigd en hypothetisch - voorbeeld:
+<br>
 * Interne processen in de aarde zorgen ervoor dat de aardplaten bewegen
 * Deze aardplaten komen met elkaar in contact, en dit kan ervoor zorgen dat bergketens vormen.
 * Hogere bergen zorgen ervoor dat rivieren over dezelfde afstand opeens meer hoogtemeters zullen moeten afleggen, waardoor het water sneller zal stromen en dus meer kracht heeft om valleien te vormen.
