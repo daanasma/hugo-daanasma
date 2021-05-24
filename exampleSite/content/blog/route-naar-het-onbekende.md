@@ -180,7 +180,7 @@ Een sterk vereenvoudigd en hypothetisch  voorbeeld: <br>
 * Het volgende jaar is er een heel milde winter, waardoor de planten opnieuw weelderig groeien. Bovendien zijn er ook minder vossen.
 * Konijnen blij.
 * ...
-Je zou een heel boek kunnen schrijven over dit soort interacties, aangezien elke afzonderlijke gebeurtenis hierboven opnieuw een impact zal hebben op allerlei processen via ‘feedback loops’. De kernboodschap is  echter dat alles met elkaar verbonden is.  
+<br>Je zou een heel boek kunnen schrijven over dit soort interacties, aangezien elke afzonderlijke gebeurtenis hierboven opnieuw een impact zal hebben op allerlei processen via ‘feedback loops’. De kernboodschap is  echter dat alles met elkaar verbonden is.  
   ([Deze video](https://youtu.be/inVZoI1AkC8 "Feedback Loops") legt het concept 'feedback loops' in een vijftal minuten op heel heldere manier uit, en als bonus bevat het een orkest van jungledieren).
 
 ![](https://lh3.googleusercontent.com/MhIwEMA3wNEv2dKMVkw9R9-hlIAubrTuxCRuyFlogCaHPGib0afulIrPhSQ_bqJzR4XwtFWIEx_OGl1cWu8RpLBtycVyYi7HoYoxIdIgMo-eHdzDp4RQvDKwrdOKFv-9pHWZoO3o =602x309)
