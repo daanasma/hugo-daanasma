@@ -3,7 +3,7 @@ author = ["Daan Asma"]
 categories = ["Psychologie", "Essay", "Persoonlijke groei"]
 date = 2021-05-23T23:00:00Z
 description = "meta"
-image = "/images/kaart_agua_negra.png"
+image = "/images/agua_negra_map_transparent.png"
 tags = ["Ecosysteem", "Watts", "Taleb", "Antifragiel", "Onzekerheid"]
 title = "Een route naar het onbekende"
 
