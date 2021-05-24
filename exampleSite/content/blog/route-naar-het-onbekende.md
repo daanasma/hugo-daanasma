@@ -295,6 +295,6 @@ In een adembenemende setting (op bijna 5000m hoogte mag je dat vrij letterlijk n
 
 De manier waarop dit alles evolueerde is volgens mij een perfecte illustratie van de halterstrategie in combinatie met een Zwarte Zwaan. Door onze positionering op de splitsing in Chili verminderden we het risico op een hachelijke situatie enorm. Langs de andere kant stelden we ons wel open voor ‘geluk’. Een lift over de Andes was onwaarschijnlijk, maar uiteindelijk gebeurde het toch en leverde het ons een onvergetelijke en unieke rit op. In San Juan namen we opnieuw een klein risico door onze auto naar het stadscentrum te verlaten aan het circuit, maar ook hier kon er eigenlijk maar weinig echt mis gaan. En ook hier lukte het ons om in te pikken op de opportuniteiten waarvoor we onszelf hadden opengesteld.
 
-Tweemaal zochten we een grote onzekerheid op, terwijl op beide plaatsen ons negatief risico beperkt was. Als het universum meewerkt op zo’n momenten, kan er veel gebeuren.
+Tweemaal zochten we een grote onzekerheid op, terwijl op beide plaatsen ons negatief risico beperkt was. Als het universum meewerkt op zo’n momenten, is er veel mogelijk.
 
 Een antifragiele dag.
