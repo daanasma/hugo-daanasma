@@ -29,7 +29,7 @@ We installeren onze rugzakken in de schaduw van een uit de kluiten gewassen stru
 
 Met een gezonde spanning, de duim in de aanslag en onze blik gericht naar de westelijke horizon begint het wachten...
 
-\## Regels in de vrijheid
+## Regels in de vrijheid
 
 Bovenstaande scène (wordt vervolgd) ligt inmiddels al een hele poos in het verleden. De voorbije maanden hield ik me bezig met het doorkruisen van Europa op mijn stalen ros, een avontuur dat me op allerlei manieren laat kennismaken met de limieten van het leven. Eén van de kernideeën van de tocht is dat ik geen plan of bestemming heb, maar tijdens de rit legde ik mezelf wel enkele regels/richtlijnen op:
 
@@ -43,7 +43,7 @@ Bovenstaande scène (wordt vervolgd) ligt inmiddels al een hele poos in het verl
 
 Gaandeweg heb ik ondervonden dat deze aanpak ervoor zorgt dat de ervaring voor mij optimaal is. De aandacht die ik niet besteed aan het creëren en volgen van een vastgelegd traject en schema kan ik spenderen aan het hier en nu: de mensen, plaatsen en gebeurtenissen die op mijn pad verschijnen. Aangezien er voortdurend verrassingen opduiken, zou het bovendien heel veel energie en tijd kosten om dit hypothetisch plan up-to-date te houden en de zo ‘controle’ over mijn reis te behouden. De spontaniteit en de spanning van enkele avonturen die ik meemaakte (de ziel van het gebeuren) kunnen bovendien op geen enkele manier gepland worden .
 
-> > It is absurd to plan for a future which, when it comes to me, will find me “absent”, looking fixedly over its shoulder instead of into its face - Alan Watts
+>> It is absurd to plan for a future which, when it comes to me, will find me “absent”, looking fixedly over its shoulder instead of into its face - Alan Watts
 
 Ik vraag me soms af waarom het me lukt om op deze manier te reizen, en waarom ik tot nu toe eigenlijk heel weinig mensen heb ontmoet die het op een gelijkaardige manier aanpakken. Het voelt voor mij niet aan dat ik extreme dingen doe, maar langs de andere kant is het natuurlijk ook niet je standaard strandvakantie. Dit soort tocht is zeker niet voor iedereen weggelegd, maar mensen vertellen me wel regelmatig dat ze gelijkaardige avonturen (hadden) willen ondernemen maar dat het er uiteindelijk niet van komt. Als ik deze vraag bekijk vanuit het spectrum [comfort-stretch-paniek](/blog/kunst-van-het-vertrekken "Kunst van het vertrekken"), denk ik dat ik op verschillende niveau’s kan begrijpen waarom het voor mij alvast niet (meer) onmogelijk aanvoelde om eraan te beginnen:
 
@@ -60,7 +60,7 @@ Een andere welbekende uitspraak is ‘geld maakt niet gelukkig’ (daar ben ik h
 
 Op globaal niveau is de achtergrondsituatie waarin ik mij bevind enorm geprivilegieerd, maar in West-Europa is dit voor veel mensen echter lang niet onbereikbaar. Het lijkt dus alsof er voor heel wat mensen nog enkel enkele minder zichtbare barrières aanwezig zijn, en in de volgende alinea´s gaan we op zoek naar hoe die drempels eruit zien en hoe ze overwonnen kunnen worden.
 
-**## De impact  van het owaarschijnlijke**
+## De impact van het onwaarschijnlijke
 
 Enkele van de concepten die in dit kader wil verkennen leerde ik kennen dankzij Nassim Nicholas Taleb, een Libanees-Amerikaanse schrijver en statisticus die zijn strepen verdiende in de financiële wereld. Hij is niet bang om tegen de schenen van de gevestigde orde te schoppen (hij geniet er zelfs intens van denk ik) en zijn expertise richt zich op datgene wat we niet weten: willekeur, waarschijnlijkheid en onzekerheid. Klinkt sexy, I know.
 
@@ -156,7 +156,7 @@ Ook het begrip ‘Antifragiliteit’ kan geïllustreerd worden met enkele maatsc
 
 In al de bovenstaande voorbeelden valt het belang van de kleine schokken op als ‘informatiebron’ die ervoor zorgt dat het systeem beter en sterker kan worden. Op korte termijn brengen deze fluctuaties misschien wat schade toe, maar op lange termijn hebben ze een positieve invloed op de weerbaarheid van het systeem. Zonder nieuwe uitdagingen zullen de systemen stoppen met sterker worden. Dit wil zeggen dat ze, om te blijven toenemen in kwaliteit, opengesteld moeten blijven voor externe stress en nieuwe variaties.
 
-**## Op zoek naar zekerheid**
+## Op zoek naar zekerheid
 
 In de Westerse maatschappij bestaat er heel fel de drang om volatiliteit uit het leven weg te nemen, en heel vaak gebeurt dit vanuit een streven naar zekerheid en veiligheid.
 
@@ -205,7 +205,7 @@ De aandachtige lezer ziet hier een probleem opduiken: enerzijds hebben we een dr
 
 Tot de helft van de voorbije eeuw (en nog steeds voor heel wat mensen) speelde religie hier een belangrijke rol in West-Europa. Ondanks allerlei onverwachte meevallers en tegenslagen werd het leven van een goede Christen beloond met een eeuwige zekerheid. En ook de alternatieve uitkomst was vrij duidelijk (en eveneens redelijk stabiel). Over de zin en onzin hiervan spreek ik me hier niet uit, maar als dit je overtuiging is, houdt het ook steek dat je je leven leidt met als doel om deze eeuwige zekerheid op een comfortabele manier door te brengen. Maar aangezien dit punt van absolute zekerheid maatschappelijk gezien voor een groot deel weggevallen is, verschijnt ons probleem natuurlijk terug acuut aan de oppervlakte.
 
-**## Ons probleem met onzekerheid**
+## Ons probleem met onzekerheid
 
 Wanneer je observeert dat grote absolute zekerheid is verdwenen, brengt dit een ongemakkelijke leegte met zich mee die opgevuld moet worden. De Westerse samenleving heeft zich na de loskoppeling van de Kerk echter ook wat afgekeerd van dit soort vragen, en er is een heel effectief alternatief pad ontstaan dat ons bevrijdt van dit soort existentiële twijfels: consumeren!
 
@@ -243,7 +243,7 @@ In mijn geval heeft deze zoektocht een heel duidelijke en ingrijpende uitwendige
 
 Daarom lijkt het me gezond om - als dit je aanspreekt - het concept geleidelijk aan te verkennen en zelf te ondervinden wat de impact op je leven kan zijn. (Alle kleine beetjes helpen) \[“Alle kleine beetjes helpen.”\](/blog/alle-kleine-beetjes-helpen "Alle kleine beetjes helpen.")
 
-**## Een strategie om met onzekerheid om te gaan**
+## Een strategie om met onzekerheid om te gaan
 
 Ik ben van mening dat de concepten van Taleb (die ik eerder in deze tekst introduceerde) een handig hulpmiddel kunnen zijn in deze exploratie. Hij neemt als vertrekpunt dat we in onze omgang met onzekerheid vaak een ‘uniforme’ aanpak hanteren, waarbij we alle onzekerheid op dezelfde manier behandelen. Deze enkelvoudige strategieën kunnen in verschillende vormen optreden:
 
