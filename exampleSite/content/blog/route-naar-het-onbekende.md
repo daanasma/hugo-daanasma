@@ -167,8 +167,10 @@ De realiteit komt echter maar heel zelden overeen met dit ideaalbeeld. Onze omge
 
 {{% notice wander %}}
 
-Het systeem ‘Aarde’ bestaat uit een hypercomplexe ketting van wisselwerkingen en kleine ‘schokjes’ in alle richtingen, aangezien natuurlijke processen eigenlijk een constante evolutie naar (een nooit bereikbaar) evenwicht zijn. Een klein - heel sterk vereenvoudigd en hypothetisch - voorbeeld:
+Het systeem ‘Aarde’ bestaat uit een hypercomplexe ketting van wisselwerkingen en kleine ‘schokjes’ in alle richtingen, aangezien natuurlijke processen eigenlijk een constante evolutie naar (een nooit bereikbaar) evenwicht zijn.   
+Een klein - heel sterk vereenvoudigd en hypothetisch - voorbeeld:
 <br>
+
 * Interne processen in de aarde zorgen ervoor dat de aardplaten bewegen
 * Deze aardplaten komen met elkaar in contact, en dit kan ervoor zorgen dat bergketens vormen.
 * Hogere bergen zorgen ervoor dat rivieren over dezelfde afstand opeens meer hoogtemeters zullen moeten afleggen, waardoor het water sneller zal stromen en dus meer kracht heeft om valleien te vormen.
@@ -180,10 +182,9 @@ Het systeem ‘Aarde’ bestaat uit een hypercomplexe ketting van wisselwerkinge
 * Het volgende jaar is er een heel milde winter, waardoor de planten opnieuw weelderig groeien. Bovendien zijn er ook minder vossen.
 * Konijnen blij.
 * ...
-<br><br>
-Je zou een heel boek kunnen schrijven over dit soort interacties, aangezien elke afzonderlijke gebeurtenis hierboven opnieuw een impact zal hebben op allerlei processen via ‘feedback loops’. De kernboodschap is  echter dat alles met elkaar verbonden is.
 
-(Deze video legt het concept 'feedback loops' in een vijftal minuten op heel heldere manier uit, en als bonus bevat het een orkest van jungledieren: [https://youtu.be/inVZoI1AkC8](https://youtu.be/inVZoI1AkC8 "https://youtu.be/inVZoI1AkC8")).
+   Je zou een heel boek kunnen schrijven over dit soort interacties, aangezien elke afzonderlijke gebeurtenis hierboven opnieuw een impact zal hebben op allerlei processen via ‘feedback loops’. De kernboodschap is  echter dat alles met elkaar verbonden is.  
+  ([Deze video](https://youtu.be/inVZoI1AkC8 "Feedback Loops") legt het concept 'feedback loops' in een vijftal minuten op heel heldere manier uit, en als bonus bevat het een orkest van jungledieren).
 
 ![](https://lh3.googleusercontent.com/MhIwEMA3wNEv2dKMVkw9R9-hlIAubrTuxCRuyFlogCaHPGib0afulIrPhSQ_bqJzR4XwtFWIEx_OGl1cWu8RpLBtycVyYi7HoYoxIdIgMo-eHdzDp4RQvDKwrdOKFv-9pHWZoO3o =602x309)
 
