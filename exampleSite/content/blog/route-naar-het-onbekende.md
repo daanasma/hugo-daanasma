@@ -169,17 +169,17 @@ De realiteit komt echter maar heel zelden overeen met dit ideaalbeeld. Onze omge
 
 Het systeem ‘Aarde’ bestaat uit een hypercomplexe ketting van wisselwerkingen en kleine ‘schokjes’ in alle richtingen, aangezien natuurlijke processen eigenlijk een constante evolutie naar (een nooit bereikbaar) evenwicht zijn.   
 Een sterk vereenvoudigd en hypothetisch  voorbeeld: <br>
-* Interne processen in de aarde zorgen ervoor dat de aardplaten bewegen
-* Deze aardplaten komen met elkaar in contact, en dit kan ervoor zorgen dat bergketens vormen.
-* Hogere bergen zorgen ervoor dat rivieren over dezelfde afstand opeens meer hoogtemeters zullen moeten afleggen, waardoor het water sneller zal stromen en dus meer kracht heeft om valleien te vormen.
-* In de hogere bergen zal het bovendien gemiddeld wat kouder zijn en zoals elke tuinier weet, kunnen sommige soorten hier al beter mee om. De vegetatie zal er dus na verloop van tijd iets anders uit zien.
-* Sommige dieren zullen opeens minder eten hebben, wat slecht nieuws is vanuit hun perspectief. Maar in dit geval wrijven de konijnen zich in de pootjes: hun buffet breidt zich uit dankzij de nieuwe plantensamenstelling. Dankzij deze overvloed aan voedsel kan de populatie kan aangroeien.
-* Goed nieuws voor de vossen die wel een brokje van de laatstgenoemde soort lusten!
-* Na enkele jaren is er echter een koude winter en een extreem droge lente: De konijnen - die intussen met heel wat meer zijn - hebben het lastiger om voedsel te vinden en hun aantal neemt wat af.
-* Minder konijnen betekent slecht nieuws voor de (zwakste) vossen, en ook het aantal vossen zal wat afnemen.
-* Het volgende jaar is er een heel milde winter, waardoor de planten opnieuw weelderig groeien. Bovendien zijn er ook minder vossen.
-* Konijnen blij.
-* ...
+. Interne processen in de aarde zorgen ervoor dat de aardplaten bewegen
+. Deze aardplaten komen met elkaar in contact, en dit kan ervoor zorgen dat bergketens vormen.
+. Hogere bergen zorgen ervoor dat rivieren over dezelfde afstand opeens meer hoogtemeters zullen moeten afleggen, waardoor het water sneller zal stromen en dus meer kracht heeft om valleien te vormen.
+. In de hogere bergen zal het bovendien gemiddeld wat kouder zijn en zoals elke tuinier weet, kunnen sommige soorten hier al beter mee om. De vegetatie zal er dus na verloop van tijd iets anders uit zien.
+. Sommige dieren zullen opeens minder eten hebben, wat slecht nieuws is vanuit hun perspectief. Maar in dit geval wrijven de konijnen zich in de pootjes: hun buffet breidt zich uit dankzij de nieuwe plantensamenstelling. Dankzij deze overvloed aan voedsel kan de populatie kan aangroeien.
+. Goed nieuws voor de vossen die wel een brokje van de laatstgenoemde soort lusten!
+. Na enkele jaren is er echter een koude winter en een extreem droge lente: De konijnen - die intussen met heel wat meer zijn - hebben het lastiger om voedsel te vinden en hun aantal neemt wat af.
+. Minder konijnen betekent slecht nieuws voor de (zwakste) vossen, en ook het aantal vossen zal wat afnemen.
+. Het volgende jaar is er een heel milde winter, waardoor de planten opnieuw weelderig groeien. Bovendien zijn er ook minder vossen.
+. Konijnen blij.
+. ...
 <br>Je zou een heel boek kunnen schrijven over dit soort interacties, aangezien elke afzonderlijke gebeurtenis hierboven opnieuw een impact zal hebben op allerlei processen via ‘feedback loops’. De kernboodschap is  echter dat alles met elkaar verbonden is.  
   ([Deze video](https://youtu.be/inVZoI1AkC8 "Feedback Loops") legt het concept 'feedback loops' in een vijftal minuten op heel heldere manier uit, en als bonus bevat het een orkest van jungledieren).
 
