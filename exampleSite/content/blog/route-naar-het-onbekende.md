@@ -3,7 +3,6 @@ author = ["Daan Asma"]
 categories = ["Psychologie", "Essay", "Persoonlijke groei"]
 date = 2021-05-23T23:00:00Z
 description = "meta"
-draft = true
 image = "/images/kaart_agua_negra.png"
 tags = ["Ecosysteem", "Watts", "Taleb", "Antifragiel", "Onzekerheid"]
 title = "Een route naar het onbekende"
@@ -44,7 +43,7 @@ Bovenstaande scène (wordt vervolgd) ligt inmiddels al een hele poos in het verl
 
 Gaandeweg heb ik ondervonden dat deze aanpak ervoor zorgt dat de ervaring voor mij optimaal is. De aandacht die ik niet besteed aan het creëren en volgen van een vastgelegd traject en schema kan ik spenderen aan het hier en nu: de mensen, plaatsen en gebeurtenissen die op mijn pad verschijnen. Aangezien er voortdurend verrassingen opduiken, zou het bovendien heel veel energie en tijd kosten om dit hypothetisch plan up-to-date te houden en de zo ‘controle’ over mijn reis te behouden. De spontaniteit en de spanning van enkele avonturen die ik meemaakte (de ziel van het gebeuren) kunnen bovendien op geen enkele manier gepland worden .
 
-> > It is absurd to plan for a future which, when it comes to me, will find me “absent”, looking fixedly over its shoulder instead of into its face - Alan Watts
+> It is absurd to plan for a future which, when it comes to me, will find me “absent”, looking fixedly over its shoulder instead of into its face - Alan Watts
 
 Ik vraag me soms af waarom het me lukt om op deze manier te reizen, en waarom ik tot nu toe eigenlijk heel weinig mensen heb ontmoet die het op een gelijkaardige manier aanpakken. Het voelt voor mij niet aan dat ik extreme dingen doe, maar langs de andere kant is het natuurlijk ook niet je standaard strandvakantie. Dit soort tocht is zeker niet voor iedereen weggelegd, maar mensen vertellen me wel regelmatig dat ze gelijkaardige avonturen (hadden) willen ondernemen maar dat het er uiteindelijk niet van komt. Als ik deze vraag bekijk vanuit het spectrum [comfort-stretch-paniek](/blog/kunst-van-het-vertrekken "Kunst van het vertrekken"), denk ik dat ik op verschillende niveau’s kan begrijpen waarom het voor mij alvast niet (meer) onmogelijk aanvoelde om eraan te beginnen:
 
@@ -77,11 +76,11 @@ Een Zwarte Zwaan is een gebeurtenis die:
 
 Een voorbeeld van een zo’n Zwarte Zwaan kan je vinden aan einde van het schijnbaar zorgeloze leven van deze kalkoen.
 
-![](https://lh3.googleusercontent.com/HpCDXkH0fhGd-3ZBgsOyduipiAJrq_kDCcdy3MwTiiqUn9IUWAuc4xvXLbeQDvwD7EFOKKZdHJktOjO2ShZfkiB0IRyZf_UCmvPqcIWlYLbMQ3gX-VbkhJSWaGG2rma7wfZBcL69 =602x451)
+![](/images/leven-van-kalkoen-annotations.jpg)
 
 Vanuit het perspectief van de kalkoen zou je dit een ‘Zwarte Zwaan’ met een behoorlijk negatief effect kunnen noemen.
 
-> > I thought we were friends? - kalkoen
+> I thought we were friends? - kalkoen
 
 Dit type onwaarschijnlijke gebeurtenissen heeft in de loop der tijden een behoorlijke invloed gehad op de wereldgeschiedenis, zowel ‘positief’ als ‘negatief’. Een bloemlezing van enkele Zwarte Zwanen op een iets grotere schaal:
 
@@ -96,7 +95,7 @@ Ook in het dagelijkse leven kunnen (vanuit je eigen perspectief) heel onverwacht
 
 * Thuiskomen na een restaurantbezoek met een open raam en een lege woonkamer,
 * Aan de praat raken met iemand in de trein die toevallig op zoek is naar iemand met jouw vaardigheden en die je een job aanbiedt,
-* Een auto-ongeluk met fatale afloop in je omgeving,
+* Een auto-ongeluk in je omgeving met fatale afloop,
 * … (De meesten onder ons kunnen waarschijnlijk wel persoonlijke voorbeelden geven van dit soort ‘verrassingen’ met een grote invloed).
 
 In zijn typische vertellende en ietwat brutale stijl vertelt Taleb hoe we gevoelig zijn voor dit soort onwaarschijnlijke gebeurtenissen en welke lessen we hier als maatschappij (niet) uit getrokken hebben. Eén van de belangrijkste conclusies is dat wanneer we - zoals de kalkoen - er van uitgaan dat de toekomst een vervolg is van onze observatie van het verleden, we ons heel kwetsbaar opstellen voor Zwarte Zwanen.
@@ -114,7 +113,7 @@ Wanneer fragiele systemen worden uitgedaagd door Zwarte Zwanen, waarbij er dus e
 
 Zoals eerder aangehaald, is het onmogelijk (en misschien zelfs absurd) om je specifiek te bereiden op alle mogelijke onwaarschijnlijke gebeurtenissen. Zinvoller is het dus om te kijken hoe je de breekbaarheid bij (intense) externe stress kan verminderen. Taleb classificeert systemen die maar beperkt gevoelig zijn voor uitwendige invloed als ‘robuust’, en geeft aan dat dit een klassieke strategie is om met onzekerheid om te gaan.
 
-![](https://lh4.googleusercontent.com/3ufRdaTbehRweZn8cppqdd4FNgXU-KqYCeSzTxM2m11az49-W8lNDySLqrNuqK17R11RWMwviD2M8AFHdsmVHJxkH9iCQr6T22lK7WwFCtW_VTsAlm0NL8rUfngpZWcK3dby9sIW =602x301)
+![](/images/fragile-robust.jpg)
 
 Enkele manieren hoe dit in de praktijk kan gebracht worden:
 
@@ -125,7 +124,9 @@ Dit soort aanpak is op het eerste zicht een behoorlijk veilige strategie om binn
 
 Taleb geeft in zijn vervolgwerk 'Antifragile: Things that gain from disorder' aan dat we hier echter in een logische valstrik wandelen. Het tegengestelde van ‘systemen die kapot gaan door de impact van wanorde’ zijn niet deze robuuste systemen die immuun zijn voor externe chaos. Er bestaan ook ‘systemen die effectief beter worden bij uitwendige druk door onzekere omstandigheden’: het tegengestelde van ‘fragiel’ is dus niet ‘robuust’ maar werd door Taleb gedoopt als ‘antifragiel’.
 
-![](https://lh5.googleusercontent.com/RiI4MOOICB2NZyhlPfltrIL86sTROZ2slXWym1A5J_4kxwzXDvswUPP2smnynYQpGZwMWQ-zC1_i_dGFNOtR3kAtSsa3l3AIkW0P2NvQEd0sqSI-zHDI_xOwFo6hV7lDjyeGwD5d =602x301)
+![](/images/fragile-robust-antifragile.jpg)
+
+![](/images/fragile-robust-antifragile.png)
 
 Beter.
 
