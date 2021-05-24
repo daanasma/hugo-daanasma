@@ -25,6 +25,6 @@ fields:
   label: description
   description: Meta description
 pages:
+- exampleSite/content/blog/duik-in-het-onbekende.md
 - exampleSite/content/blog/kunst-van-het-vertrekken.md
 - exampleSite/content/blog/kunst-van-het-vertrekken.md
-- exampleSite/content/blog/route-naar-het-onbekende.md

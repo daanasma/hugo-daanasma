@@ -5,7 +5,7 @@ date = 2021-05-23T23:00:00Z
 description = "Een verhaal over (on)zekerheid en enkele strategieën om hiermee om te gaan."
 image = "/images/agua_negra_map_transparent.png"
 tags = ["Ecosysteem", "Watts", "Taleb", "Antifragiel", "Onzekerheid"]
-title = "Een route naar het onbekende"
+title = "Een duik in het onbekende"
 
 +++
 Met een diep sissend geluid beweegt de glazen deur enkele centimeters naar buiten vooraleer ze naar rechts schuift om de ochtendbries binnen te laten. De Chileense buschauffeur geeft met een vriendelijk knikje in zijn kleurig versierde achteruitkijkspiegel aan dat we zijn gearriveerd bij de splitsing die we zoeken. Tijdens het uitladen van onze zware rugzakken vraagt hij ons nogmaals of we hier echt de bus willen verlaten. We stellen hem opnieuw gerust dat we onszelf wel zullen redden. Met een vertwijfelde blik haalt hij zijn schouders op, vooraleer hij zijn enorme lichaam lichaam verrassend soepel terug naar binnen tilt. Door de sluitende deur zien we hem nog net opnieuw versmelten met zijn comfortabele stoel zoals enkel buschauffeurs dat kunnen. Bij wijze van afscheidszoen trakteert het vehikel ons op een dichte zwarte rookwolk en enkele ogenblikken later zijn we enkel omringd door wijngaarden, stilte en een reeds brandende ochtendzon die ons elke minuut meer duidelijk maakt dat ze er zin in heeft vandaag. Het vijftal imposante gieren die boven ons cirkelen, verkneukelen zich in mijn verbeelding al op een feestmaal.
