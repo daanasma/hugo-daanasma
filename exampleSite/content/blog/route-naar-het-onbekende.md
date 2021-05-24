@@ -76,7 +76,7 @@ Een Zwarte Zwaan is een gebeurtenis die:
 
 Een voorbeeld van een zo’n Zwarte Zwaan kan je vinden aan einde van het schijnbaar zorgeloze leven van deze kalkoen.
 
-![](/images/leven-van-kalkoen-annotations.jpg)
+![](/images/leven-van-kalkoen-annotations.png)
 
 Vanuit het perspectief van de kalkoen zou je dit een ‘Zwarte Zwaan’ met een behoorlijk negatief effect kunnen noemen.
 
@@ -113,7 +113,7 @@ Wanneer fragiele systemen worden uitgedaagd door Zwarte Zwanen, waarbij er dus e
 
 Zoals eerder aangehaald, is het onmogelijk (en misschien zelfs absurd) om je specifiek te bereiden op alle mogelijke onwaarschijnlijke gebeurtenissen. Zinvoller is het dus om te kijken hoe je de breekbaarheid bij (intense) externe stress kan verminderen. Taleb classificeert systemen die maar beperkt gevoelig zijn voor uitwendige invloed als ‘robuust’, en geeft aan dat dit een klassieke strategie is om met onzekerheid om te gaan.
 
-![](/images/fragile-robust.jpg)
+![](/images/fragile-robust.png)
 
 Enkele manieren hoe dit in de praktijk kan gebracht worden:
 
@@ -124,22 +124,17 @@ Dit soort aanpak is op het eerste zicht een behoorlijk veilige strategie om binn
 
 Taleb geeft in zijn vervolgwerk 'Antifragile: Things that gain from disorder' aan dat we hier echter in een logische valstrik wandelen. Het tegengestelde van ‘systemen die kapot gaan door de impact van wanorde’ zijn niet deze robuuste systemen die immuun zijn voor externe chaos. Er bestaan ook ‘systemen die effectief beter worden bij uitwendige druk door onzekere omstandigheden’: het tegengestelde van ‘fragiel’ is dus niet ‘robuust’ maar werd door Taleb gedoopt als ‘antifragiel’.
 
-![](/images/fragile-robust-antifragile.jpg)
-
 ![](/images/fragile-robust-antifragile.png)
 
 Beter.
 
 {{% notice wander %}}
 
-Om het begrip ‘antifragiliteit’ wat beter te leren kennen, doen we een beroep op de klassieke mythologie. In zijn queeste naar onsterfelijkheid begon de Griekse held Hercules aan zijn beroemde ‘12 werken’. Nadat hij in zijn eerste opdracht de Nemeïsche leeuw wist te verschalken, kreeg hij van koning Eurystheus de opdracht om het op te nemen tegen de Hydra van Lerna. Deze meerkoppige moordzuchtige slang leefde in de buurt van het Lerna-meer, een moerasgebied gevuld met giftige dampen dat bovendien dienst deed als één van de toegangspoorten naar de onderwereld.
-
-Gezellig.
-
-Gelukkig kon onze held wel tegen een stootje en na wat zoeken vond hij het nest van het monster. Hij ging vol goede moed de confrontatie aan. Hercules was een meester met het zwaard, en met vertrouwen wandelde hij behoedzaam dichterbij. Toen de Hydra inging op de uitdaging om hem aan te vallen, ontweek hij de giftige beet van de slang met een elegante beweging. Met een machtige uithaal ontdeed hij het monster van één van zijn hoofden.
-
-Via de overige koppen ontketende de Hydra een symphonie aan geschreeuw, maar Hercules was in zijn hoofd al bij de volgende aanval die hem dichter bij zijn doel zou brengen. Opeens merkte hij iets op dat hem een krop in zijn keel bezorgde: op de plaats waar hij zonet een gapende wonde had toegebracht, waren nu niet één maar twee hoofden terug gegroeid. Elke aanval zorgde er met andere woorden voor dat het gedrocht sterker werd.
-
+Om het begrip ‘antifragiliteit’ wat beter te leren kennen, doen we een beroep op de klassieke mythologie. In zijn queeste naar onsterfelijkheid begon de Griekse held Hercules aan zijn beroemde ‘12 werken’. Nadat hij in zijn eerste opdracht de Nemeïsche leeuw wist te verschalken, kreeg hij van koning Eurystheus de opdracht om het op te nemen tegen de Hydra van Lerna. Deze meerkoppige moordzuchtige slang leefde in de buurt van het Lerna-meer, een moerasgebied gevuld met giftige dampen dat bovendien dienst deed als één van de toegangspoorten naar de onderwereld.  
+![](/images/hydra_lerna.JPG)  
+Gezellig.  
+Gelukkig kon onze held wel tegen een stootje en na wat zoeken vond hij het nest van het monster. Hij ging vol goede moed de confrontatie aan. Hercules was een meester met het zwaard, en met vertrouwen wandelde hij behoedzaam dichterbij. Toen de Hydra inging op de uitdaging om hem aan te vallen, ontweek hij de giftige beet van de slang met een elegante beweging. Met een machtige uithaal ontdeed hij het monster van één van zijn hoofden.  
+Via de overige koppen ontketende de Hydra een symphonie aan geschreeuw, maar Hercules was in zijn hoofd al bij de volgende aanval die hem dichter bij zijn doel zou brengen. Opeens merkte hij iets op dat hem een krop in zijn keel bezorgde: op de plaats waar hij zonet een gapende wonde had toegebracht, waren nu niet één maar twee hoofden terug gegroeid. Elke aanval zorgde er met andere woorden voor dat het gedrocht sterker werd.  
 Hercules zou Hercules natuurlijk niet zijn als hij hier geen oplossing op vond en hij riep de hulp van zijn neefje Iolaus in. Na elke onthoofding kreeg Iolaus de opdracht om met een brandende toorts de wonde dicht te schroeien, zodat er geen nieuwe hoofden konden verschijnen. Na een helse strijd slaagde het duo er op die manier uiteindelijk in om het monster te vellen, zodat Hercules een stap dichter bij onsterfelijkheid kwam.
 
 {{% /notice %}}
