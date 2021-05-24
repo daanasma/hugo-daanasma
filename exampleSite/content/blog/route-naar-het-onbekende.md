@@ -133,9 +133,10 @@ Beter.
 Om het begrip ‘antifragiliteit’ wat beter te leren kennen, doen we een beroep op de klassieke mythologie. In zijn queeste naar onsterfelijkheid begon de Griekse held Hercules aan zijn beroemde ‘12 werken’. Nadat hij in zijn eerste opdracht de Nemeïsche leeuw wist te verschalken, kreeg hij van koning Eurystheus de opdracht om het op te nemen tegen de Hydra van Lerna. Deze meerkoppige moordzuchtige slang leefde in de buurt van het Lerna-meer, een moerasgebied gevuld met giftige dampen dat bovendien dienst deed als één van de toegangspoorten naar de onderwereld.
 
 ![ Hercules and the Lernaean Hydra - Gustave Moreau](/images/hydra_lerna.JPG " Hercules and the Lernaean Hydra - Gustave Moreau")  
-Gezellig.
-
+Gezellig.  
+  
 Gelukkig kon onze held wel tegen een stootje en na wat zoeken vond hij het nest van het monster. Hij ging vol goede moed de confrontatie aan. Hercules was een meester met het zwaard, en met vertrouwen wandelde hij behoedzaam dichterbij. Toen de Hydra inging op de uitdaging om hem aan te vallen, ontweek hij de giftige beet van de slang met een elegante beweging. Met een machtige uithaal ontdeed hij het monster van één van zijn hoofden.  
+  
 Via de overige koppen ontketende de Hydra een symphonie aan geschreeuw, maar Hercules was in zijn hoofd al bij de volgende aanval die hem dichter bij zijn doel zou brengen. Opeens merkte hij iets op dat hem een krop in zijn keel bezorgde: op de plaats waar hij zonet een gapende wonde had toegebracht, waren nu niet één maar twee hoofden terug gegroeid. Elke aanval zorgde er met andere woorden voor dat het gedrocht sterker werd.  
 Hercules zou Hercules natuurlijk niet zijn als hij hier geen oplossing op vond en hij riep de hulp van zijn neefje Iolaus in. Na elke onthoofding kreeg Iolaus de opdracht om met een brandende toorts de wonde dicht te schroeien, zodat er geen nieuwe hoofden konden verschijnen. Na een helse strijd slaagde het duo er op die manier uiteindelijk in om het monster te vellen, zodat Hercules een stap dichter bij onsterfelijkheid kwam.
 
@@ -143,7 +144,7 @@ Hercules zou Hercules natuurlijk niet zijn als hij hier geen oplossing op vond e
 
 De Hydra van Lerna is het schoolvoorbeeld van een antifragiel systeem: bij elke klap die ze krijgt, wordt ze sterker en sterker. Een fragiele versie van het monster zou daarentegen zwakker worden bij elke onthoofding, terwijl een robuust exemplaar zichzelf bijvoorbeeld zou verdedigen met een quasi ondoordringbaar schild. Ook antifragiele systemen kunnen uiteindelijk ten onder gaan, maar deze legende illustreert mooi dat dat niet gebeurt bij het verhogen van de uitwendige druk.
 
-![](https://lh5.googleusercontent.com/z5HeZ440kkJb6KqNr_aVqspOoTp9woQ_V1CBaPPH1QmnC8sQa6QEkrc5YcZKSpPCVvWIqeRnAWAzfiLoePJ4D-AedkQY5_xotbQgu-4rd6WKHetVkjqZ2AsqhqieTFYbAGigOxhg =602x451)
+![](/images/fragile-antifragile-effects.png)
 
 Ook het begrip ‘Antifragiliteit’ kan geïllustreerd worden met enkele maatschappelijke voorbeelden :
 
