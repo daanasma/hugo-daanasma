@@ -169,9 +169,9 @@ De realiteit komt echter maar heel zelden overeen met dit ideaalbeeld. Onze omge
 
 Het systeem ‘Aarde’ bestaat uit een hypercomplexe ketting van wisselwerkingen en kleine ‘schokjes’ in alle richtingen, aangezien natuurlijke processen eigenlijk een constante evolutie naar (een nooit bereikbaar) evenwicht zijn.   
 Een sterk vereenvoudigd en hypothetisch  voorbeeld: <br>
-. Interne processen in de aarde zorgen ervoor dat de aardplaten bewegen
-. Deze aardplaten komen met elkaar in contact, en dit kan ervoor zorgen dat bergketens vormen.
-. Hogere bergen zorgen ervoor dat rivieren over dezelfde afstand opeens meer hoogtemeters zullen moeten afleggen, waardoor het water sneller zal stromen en dus meer kracht heeft om valleien te vormen.
+. Interne processen in de aarde zorgen ervoor dat de aardplaten bewegen.<br>
+. Deze aardplaten komen met elkaar in contact, en dit kan ervoor zorgen dat bergketens vormen.<br>
+. Hogere bergen zorgen ervoor dat rivieren over dezelfde afstand opeens meer hoogtemeters zullen moeten afleggen, waardoor het water sneller zal stromen en dus meer kracht heeft om valleien te vormen.<br>
 . In de hogere bergen zal het bovendien gemiddeld wat kouder zijn en zoals elke tuinier weet, kunnen sommige soorten hier al beter mee om. De vegetatie zal er dus na verloop van tijd iets anders uit zien.
 . Sommige dieren zullen opeens minder eten hebben, wat slecht nieuws is vanuit hun perspectief. Maar in dit geval wrijven de konijnen zich in de pootjes: hun buffet breidt zich uit dankzij de nieuwe plantensamenstelling. Dankzij deze overvloed aan voedsel kan de populatie kan aangroeien.
 . Goed nieuws voor de vossen die wel een brokje van de laatstgenoemde soort lusten!
