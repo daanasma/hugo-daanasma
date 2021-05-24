@@ -167,7 +167,7 @@ De realiteit komt echter maar heel zelden overeen met dit ideaalbeeld. Onze omge
 
 {{% notice wander %}}
 
-Het systeem ‘Aarde’ bestaat uit een hypercomplexe ketting van wisselwerkingen en kleine ‘schokjes’ in alle richtingen, aangezien natuurlijke processen eigenlijk een constante evolutie naar (een nooit bereikbaar) evenwicht zijn.   
+Het systeem ‘Aarde’ bestaat uit een hypercomplexe ketting van wisselwerkingen en kleine ‘schokjes’ in alle richtingen, aangezien natuurlijke processen eigenlijk een constante evolutie naar (een nooit bereikbaar) evenwicht zijn.  
 Een sterk vereenvoudigd en hypothetisch  voorbeeld: <br>
 . Interne processen in de aarde zorgen ervoor dat de aardplaten bewegen.<br>
 . Deze aardplaten komen met elkaar in contact, en dit kan ervoor zorgen dat bergketens vormen.<br>
@@ -181,7 +181,7 @@ Een sterk vereenvoudigd en hypothetisch  voorbeeld: <br>
 . Konijnen blij.<br>
 . ...<br>
 <br>Je zou een heel boek kunnen schrijven over dit soort interacties, aangezien elke afzonderlijke gebeurtenis hierboven opnieuw een impact zal hebben op allerlei processen via ‘feedback loops’. De kernboodschap is  echter dat alles met elkaar verbonden is.  
-  ([Deze video](https://youtu.be/inVZoI1AkC8 "Feedback Loops") legt het concept 'feedback loops' in een vijftal minuten op heel heldere manier uit, en als bonus bevat het een orkest van jungledieren).
+([Deze video](https://youtu.be/inVZoI1AkC8 "Feedback Loops") legt het concept 'feedback loops' in een vijftal minuten op heel heldere manier uit, en als bonus bevat het een orkest van jungledieren).
 
 ![](https://lh3.googleusercontent.com/MhIwEMA3wNEv2dKMVkw9R9-hlIAubrTuxCRuyFlogCaHPGib0afulIrPhSQ_bqJzR4XwtFWIEx_OGl1cWu8RpLBtycVyYi7HoYoxIdIgMo-eHdzDp4RQvDKwrdOKFv-9pHWZoO3o =602x309)
 
@@ -249,7 +249,7 @@ Deze strategieën leveren systemen op die zich op het spectrum situeren tussen �
 
 Taleb, die in zijn vrije tijd ook gewichtheffer blijkt te zijn, gebruikt het beeld van een halter om een alternatieve aanpak voor te stellen.
 
-![](https://lh4.googleusercontent.com/n4xFnSM6YrmI_o24k0yjoYFIVU00HAuDKThp5yCeS0s-4whntQaIiUyldibhptIK08NR-ab86VWe-NBf7HGGX9GKEn8jlMnjitG06pg6yTKGh-y1qTVWzZ3Uj804HqpsqTuZwLT8 =602x151)
+![](/images/barbell.png)
 
 De halter illustreert een scheiding van twee extremen, waarbij het gemiddelde weinig aandacht krijgt. De twee gewichten zijn niet noodzakelijk altijd even zwaar, de belangrijkste observatie is dat er een scheiding is tussen de uitersten. Hij stelt voor om op sommige vlakken risico’s te schuwen, terwijl je op andere vlakken heel graag risico’s neemt. Hij pleit ervoor om zo weinig mogelijk 'gemiddelde risico´s' te nemen, omdat 'een beetje risico' bij het optreden van een Zwarte Zwaan toch catastrofale gevolgen kan hebben.
 
@@ -281,19 +281,19 @@ Jackpot.
 
 Vanop de veel te krappe achterbank van zijn rode Fiat worden we getrakteerd op een rit door hallucinante berglandschappen die je soms doet denken aan een andere planeet.
 
-![](https://lh6.googleusercontent.com/GZtHelqYSYt5wvp5sJSm5r4BPcyjaxbJuEjvza8_1104JWv6R8mzA0osZPGFbUdxHjFP_FZWprlROf5pdVGK74INiw9qI_2jXSnJ-63WBxquMbZqfk2-I2VHxf8IFePJhPzdMaxh =602x339)
+![](/images/agua_egra_fiat.jpg)
+
+![](/images/agua_negra_altura.JPG)
 
 In een adembenemende setting (op bijna 5000m hoogte mag je dat vrij letterlijk nemen) steken we de Argentijnse grens over en vervolgens dalen we terug af naar het bloedhete San Juan.
 
-![](https://lh6.googleusercontent.com/u47PwY50bHZzO9A68rPJ3Eg0KeNbX92tHI2-M7BmPokp0p757MJqtC5WV7BSgNe3gbhuqSW8OhcyB938OnLVvBykrJxxhSMqHQrpThzXiU1_dOfByYPZXaB9TnbFxd25axKdtFls =602x401)
-
-![](https://lh3.googleusercontent.com/imlFFMNClBSzGSwwb9XO_24eCWuPucslJYWKRvh0z_LhjHwIhxQSWj_NZjMHB4Y1r3ara9SVvy5XHKrCaBkhPYfBSs6Q49ttnrFVwhkiHxDraXb-xk0GG5749x_uDQfCop7ySBWz =602x401)
+![](/images/agua_negra_view.JPG)
 
 400 kilometer en een achttal uur na ons vertrek tussen de Chileense wijngaarden naderen we San Juan, waar we het lokale autoracecircuit aan onze linkerkant opmerken. Het lijkt alsof er heel wat te beleven valt vandaag, en Javier vertelt ons dat de wielerronde van San Juan hier in de late namiddag zal arriveren. Mijn ogen gaan meteen wijd open, want ik ving enkele dagen geleden op dat Remco Evenepoel hier bezig is met zijn eerste World Tour-race te winnen. We nemen afscheid van Javier en begeven ons onder een loden zon naar het circuit, waar nog geen uurtje later Zdenek Stybar het peloton met een ultieme krachtinspanning weet te verschalken. Tijdens de podiumceremonie zien we in de perstribune een bekend gezicht, en met enkele Vlaamse kreten slagen we erin om de aandacht van Renaat Schotte - een Vlaamse wielerjournalist - te trekken. Hij is uiteraard stomverbaasd om herkend te worden door het Argentijnse publiek, maar begroet ons met een hartelijke glimlach. Een uur later zitten we samen met Renaat in de auto, op weg naar ons hotel in het centrum van de stad. De volgende dag zouden we getuige zijn van de eerste ‘belangrijke’ eindzege van ons grootste wielertalent sinds lange tijd.
 
-![](https://lh5.googleusercontent.com/sG-VPUVqu9J_XXcQGOU6rsy6udk3nGtNEzdomjEuaBMl9RCEHmjUOVj2PI_fczdfyHGkLvI02cc_LnWeBbvZSrxQqPiZF76B1Yu9pjVx71qwdxywmZlKqdnPc7VIISgGKEGUIGKk =602x401)
+![](/images/rey_remco.JPG)
 
-De manier waarop deze dag evolueerde is volgens mij een perfecte illustratie van de halterstrategie in combinatie met een Zwarte Zwaan. Door onze positionering op de splitsing in Chili verminderden we het risico op een hachelijke situatie enorm. Langs de andere kant stelden we ons wel open voor ‘geluk’. Een lift over de Andes was onwaarschijnlijk, maar uiteindelijk gebeurde het toch en leverde het ons een onvergetelijke en unieke rit op. In San Juan namen we opnieuw een klein risico door onze auto naar het stadscentrum te verlaten aan het circuit, maar ook hier kon er eigenlijk maar weinig echt mis gaan. En ook hier lukte het ons om in te pikken op de opportuniteiten waarvoor we onszelf hadden opengesteld.
+De manier waarop dit alles evolueerde is volgens mij een perfecte illustratie van de halterstrategie in combinatie met een Zwarte Zwaan. Door onze positionering op de splitsing in Chili verminderden we het risico op een hachelijke situatie enorm. Langs de andere kant stelden we ons wel open voor ‘geluk’. Een lift over de Andes was onwaarschijnlijk, maar uiteindelijk gebeurde het toch en leverde het ons een onvergetelijke en unieke rit op. In San Juan namen we opnieuw een klein risico door onze auto naar het stadscentrum te verlaten aan het circuit, maar ook hier kon er eigenlijk maar weinig echt mis gaan. En ook hier lukte het ons om in te pikken op de opportuniteiten waarvoor we onszelf hadden opengesteld.
 
 Tweemaal zochten we een grote onzekerheid op, terwijl op beide plaatsen ons negatief risico beperkt was. Als het universum meewerkt op zo’n momenten, kan er veel gebeuren.
 
