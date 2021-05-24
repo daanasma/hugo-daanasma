@@ -130,9 +130,11 @@ Beter.
 
 {{% notice wander %}}
 
-Om het begrip ‘antifragiliteit’ wat beter te leren kennen, doen we een beroep op de klassieke mythologie. In zijn queeste naar onsterfelijkheid begon de Griekse held Hercules aan zijn beroemde ‘12 werken’. Nadat hij in zijn eerste opdracht de Nemeïsche leeuw wist te verschalken, kreeg hij van koning Eurystheus de opdracht om het op te nemen tegen de Hydra van Lerna. Deze meerkoppige moordzuchtige slang leefde in de buurt van het Lerna-meer, een moerasgebied gevuld met giftige dampen dat bovendien dienst deed als één van de toegangspoorten naar de onderwereld.  
-![](/images/hydra_lerna.JPG)  
-Gezellig.  
+Om het begrip ‘antifragiliteit’ wat beter te leren kennen, doen we een beroep op de klassieke mythologie. In zijn queeste naar onsterfelijkheid begon de Griekse held Hercules aan zijn beroemde ‘12 werken’. Nadat hij in zijn eerste opdracht de Nemeïsche leeuw wist te verschalken, kreeg hij van koning Eurystheus de opdracht om het op te nemen tegen de Hydra van Lerna. Deze meerkoppige moordzuchtige slang leefde in de buurt van het Lerna-meer, een moerasgebied gevuld met giftige dampen dat bovendien dienst deed als één van de toegangspoorten naar de onderwereld.
+
+![ Hercules and the Lernaean Hydra - Gustave Moreau](/images/hydra_lerna.JPG " Hercules and the Lernaean Hydra - Gustave Moreau")  
+Gezellig.
+
 Gelukkig kon onze held wel tegen een stootje en na wat zoeken vond hij het nest van het monster. Hij ging vol goede moed de confrontatie aan. Hercules was een meester met het zwaard, en met vertrouwen wandelde hij behoedzaam dichterbij. Toen de Hydra inging op de uitdaging om hem aan te vallen, ontweek hij de giftige beet van de slang met een elegante beweging. Met een machtige uithaal ontdeed hij het monster van één van zijn hoofden.  
 Via de overige koppen ontketende de Hydra een symphonie aan geschreeuw, maar Hercules was in zijn hoofd al bij de volgende aanval die hem dichter bij zijn doel zou brengen. Opeens merkte hij iets op dat hem een krop in zijn keel bezorgde: op de plaats waar hij zonet een gapende wonde had toegebracht, waren nu niet één maar twee hoofden terug gegroeid. Elke aanval zorgde er met andere woorden voor dat het gedrocht sterker werd.  
 Hercules zou Hercules natuurlijk niet zijn als hij hier geen oplossing op vond en hij riep de hulp van zijn neefje Iolaus in. Na elke onthoofding kreeg Iolaus de opdracht om met een brandende toorts de wonde dicht te schroeien, zodat er geen nieuwe hoofden konden verschijnen. Na een helse strijd slaagde het duo er op die manier uiteindelijk in om het monster te vellen, zodat Hercules een stap dichter bij onsterfelijkheid kwam.
