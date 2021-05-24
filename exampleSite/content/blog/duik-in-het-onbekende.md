@@ -2,7 +2,7 @@
 author = ["Daan Asma"]
 categories = ["Psychologie", "Essay", "Persoonlijke groei"]
 date = 2021-05-23T23:00:00Z
-description = "Een verhaal over (on)zekerheid en enkele strategieën om hiermee om te gaan."
+description = "Een verhaal over (on)zekerheid en enkele strategieën om hiermee om te gaan. Ben je benieuwd wat hoge bergpassen, musicerende jungledieren, Hercules en het tragische overlijden van een kalkoen met elkaar te maken hebben? "
 image = "/images/agua_negra_map_transparent.png"
 tags = ["Ecosysteem", "Watts", "Taleb", "Antifragiel", "Onzekerheid"]
 title = "Een duik in het onbekende"
