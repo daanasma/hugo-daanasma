@@ -181,10 +181,7 @@ Een sterk vereenvoudigd en hypothetisch  voorbeeld: <br>
 . Konijnen blij.<br>
 . ...<br>
 <br>Je zou een heel boek kunnen schrijven over dit soort interacties, aangezien elke afzonderlijke gebeurtenis hierboven opnieuw een impact zal hebben op allerlei processen via ‘feedback loops’. De kernboodschap is  echter dat alles met elkaar verbonden is.  
-([Deze video](https://youtu.be/inVZoI1AkC8 "Feedback Loops") legt het concept 'feedback loops' in een vijftal minuten op heel heldere manier uit, en als bonus bevat het een orkest van jungledieren).
-
-![](https://lh3.googleusercontent.com/MhIwEMA3wNEv2dKMVkw9R9-hlIAubrTuxCRuyFlogCaHPGib0afulIrPhSQ_bqJzR4XwtFWIEx_OGl1cWu8RpLBtycVyYi7HoYoxIdIgMo-eHdzDp4RQvDKwrdOKFv-9pHWZoO3o =602x309)
-
+([Deze video](https://youtu.be/inVZoI1AkC8 "Feedback Loops") legt het concept 'feedback loops' in een vijftal minuten op heel heldere manier uit, en als bonus bevat het een orkest van jungledieren).![](/images/jungle_jammin.png)  
 {{% /notice %}}
 
 Deze natuurlijke fluctuaties draaien misschien minder positief uit voor afzonderlijke delen van het systeem, maar op de lange termijn zorgen ze er wel voor dat het geheel ‘gezond’ blijft en zelfs sterker wordt. Kleine schommelingen zijn mogelijkheden voor een ecosysteem om ‘bij te leren’.
