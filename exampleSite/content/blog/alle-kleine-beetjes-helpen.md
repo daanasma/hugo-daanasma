@@ -14,19 +14,20 @@ Wanneer ik met een volgeladen fiets een klein Spaans dorpje binnenrijd, is dat v
 
 Volgens mij is het eigenlijke fietsen dus helemaal niet de grootste uitdaging is aan dit type reis. Wanneer je moe bent, kan je namelijk altijd de dag afronden en uitrusten. Ik bedenk me trouwens regelmatig dat het bijlange niet zeker is dat _echte fietsers_ zouden genieten van dit soort avontuur, aangezien de grootste uitdagingen in andere aspecten dan het fysieke liggen.
 
-De afstand tussen België en Spanje lijkt groot, en uiteraard is ze dat ook. Wanneer je dat grote aantal kilometers echter verdeelt over het aantal dagen ik effectief gefietst heb, valt het op dat het eigenlijk niet om onmogelijke dagelijkse afstanden gaat. 
-Ik herinner me dat ik tijdens de eerste weken van mijn tocht heel wat meer moeite had met het afleggen van kilometers en dat ik ‘s avonds vaak helemaal uitgeput was. Elke dag verbeterde ik echter in zowel het fietsen en alles wat errond komt kijken. 
+De afstand tussen België en Spanje lijkt groot, en uiteraard is ze dat ook. Wanneer je dat grote aantal kilometers echter verdeelt over het aantal dagen ik effectief gefietst heb, valt het op dat het eigenlijk niet om onmogelijke dagelijkse afstanden gaat.
+Ik herinner me dat ik tijdens de eerste weken van mijn tocht heel wat meer moeite had met het afleggen van kilometers en dat ik ‘s avonds vaak helemaal uitgeput was. Elke dag verbeterde ik echter in zowel het fietsen en alles wat errond komt kijken.
+
 * Het opzetten van mijn tent kostte na verloop van tijd minder tijd en energie,
-* ik sliep steeds minder onrustig (en dus beter), 
-* mijn benen (en heel wat andere lichaamsdelen) werden sterker, 
+* ik sliep steeds minder onrustig (en dus beter),
+* mijn benen (en heel wat andere lichaamsdelen) werden sterker,
 * ik leerde welk soort voeding mijn lichaam nodig had
-* en zoveel meer. 
-Niet alleen kostte het me steeds minder moeite om te reizen, ook de afstand die ik gedurende dit leerproces had afgelegd was inmiddels al aanzienlijk. Deze observatie deed me denken aan een boeiend concept waar ik onlangs over las.
+* en zoveel meer.
+  Niet alleen kostte het me steeds minder moeite om te reizen, ook de afstand die ik gedurende dit leerproces had afgelegd was inmiddels al aanzienlijk. Deze observatie deed me denken aan een boeiend concept waar ik onlangs over las.
 
 ## Opstapelen
 
-Een poosje terug las ik het boek [“Atomic Habits”](https://jamesclear.com/atomic-habits "Atomic Habits") van James Clear. Hij beschrijft op een eenvoudige en heldere manier hoe onze levens voor een groot deel gevuld en gevormd worden door kleine gewoontes. Daarnaast maakt hij een interessante analyse van de gevolgen hiervan op lange termijn. Het resultaat van een eenmalige kleine actie is vaak beperkt, maar frequente herhaling ervan heeft een meervoudig effect. 
-Enerzijds wordt na verloop van tijd de impact van elke nieuwe uitvoering iets groter: door herhaling en training schaaf je (meestal) je vaardigheden bij en word je effectiever in de uitvoering. 
+Een poosje terug las ik het boek [“Atomic Habits”](https://jamesclear.com/atomic-habits "Atomic Habits") van James Clear. Hij beschrijft op een eenvoudige en heldere manier hoe onze levens voor een groot deel gevuld en gevormd worden door kleine gewoontes. Daarnaast maakt hij een interessante analyse van de gevolgen hiervan op lange termijn. Het resultaat van een eenmalige kleine actie is vaak beperkt, maar frequente herhaling ervan heeft een meervoudig effect.
+Enerzijds wordt na verloop van tijd de impact van elke nieuwe uitvoering iets groter: door herhaling en training schaaf je (meestal) je vaardigheden bij en word je effectiever in de uitvoering.
 Anderzijds stapelen ook de resultaten van die eerste uitvoeringen op. Bovendien gebeurt in het leven bijna niets zoals je het op voorhand voorspelt, en deze eerste kleine stappen zetten vaak onverwachte trajecten in beweging.
 
 > "Alle kleine beetjes helpen" -  Ons moeder
@@ -36,6 +37,7 @@ Samen met de observatie dat vele kleine beetjes over een lange periode opstapele
 Na zijn vertrek in Andalusië zeilde Colón naar de Canarische Eilanden. Van deze archipel zouden zijn schepen de Atlantische Oceaan oversteken naar Azië via een onontdekte, hypothetische westelijke vaarroute. Iets meer dan een maand na vertrek vanop deze eilanden weerklonk de Spaanse versie van "Land in zicht!" en arriveerde de groep ontdekkingsreizigers op één van de eilanden die we nu kennen als de Bahama's. Ze hadden eindelijk India bereikt en daarom schonken ze de naam _Indianen_ aan hun warme welkomstcomité.
 
 Laten we nu even een gedachtenexperiment uitvoeren waarin Columbus:
+
 * effectief wist waarmee hij bezig was,
 * de huidige kennis had over de werking van het kompas,
 * zijn overtocht uitvoerde in een rechte lijn.
@@ -90,7 +92,9 @@ Eén van de grootste uitdagingen die bij dit soort patronen komt kijken ligt in 
 
 Zou je hier zeggen dat je acties enkel op dag 7 een effect hadden? Wanneer je enkel naar de zichtbare resultaten kijkt, wat in de meerderheid van de gevallen de enige bron van directe informatie is, lijkt dit misschien het geval te zijn. Maar zonder de voorbereidende opwarming vrees ik dat de ijsblok op de zevende dag in rust was gebleven.
 
-{{< % notice wander % >}} Wanneer de weervrouw het over het vriespunt heeft, is het duidelijk dat ze daarmee 0° Celsius bedoelt. Maar wat is eigenlijk de vorm van water op exact deze temperatuur? <br><br> We weten allemaal dat vloeibaar water in ijs verandert wanneer de temperatuur onder het vriespunt zakt, net zoals we ook weten dat ijs smelt als de temperatuur positief wordt. Maar wat gebeurt er eigenlijk op het overgangspunt? Wel, dat hangt er blijkbaar van af… Wanneer het nulpunt benaderd wordt vanuit een lagere temperatuur - zoals in ons voorbeeld - zal het ijs nog niet smelten wanneer de temperatuur exact 0°C bereikt. Extra warmte-energie die op dit punt wordt toegevoegd, zal in eerste instantie gebruikt worden om de omzetting van vast naar vloeistof te verwezenlijken zonder daarbij de effectieve temperatuur van het ijs/water te beïnvloeden. Net op het punt dat de conversie naar water volledig is, zal de temperatuur nog steeds 0°C bedragen. Vanaf dit moment zorgt extra toegevoegde warmte voor een toename van de temperatuur van het water. (bedankt [Karthik Naicker]())<br> <br><small>NB. Voor het gemak heb ik even de impact van luchtdruk buiten beschouwing gelaten en ben ik ervan uitgegaan dat we het hebben over een situatie met ["atmosferische standaardomstandigheden"](https://nl.wikipedia.org/wiki/Standaardomstandigheden "Wikipedia Standaardomstandigheden"). Doe je dat niet, dan opent er zich een hele nieuwe doos aan mogelijkheden.</small>  
+{{< % notice wander % >}} 
+
+Wanneer de weervrouw het over het vriespunt heeft, is het duidelijk dat ze daarmee 0° Celsius bedoelt. Maar wat is eigenlijk de vorm van water op exact deze temperatuur? <br><br> We weten allemaal dat vloeibaar water in ijs verandert wanneer de temperatuur onder het vriespunt zakt, net zoals we ook weten dat ijs smelt als de temperatuur positief wordt. Maar wat gebeurt er eigenlijk op het overgangspunt? Wel, dat hangt er blijkbaar van af… Wanneer het nulpunt benaderd wordt vanuit een lagere temperatuur - zoals in ons voorbeeld - zal het ijs nog niet smelten wanneer de temperatuur exact 0°C bereikt. Extra warmte-energie die op dit punt wordt toegevoegd, zal in eerste instantie gebruikt worden om de omzetting van vast naar vloeistof te verwezenlijken zonder daarbij de effectieve temperatuur van het ijs/water te beïnvloeden. Net op het punt dat de conversie naar water volledig is, zal de temperatuur nog steeds 0°C bedragen. Vanaf dit moment zorgt extra toegevoegde warmte voor een toename van de temperatuur van het water. (bedankt [Karthik Naicker]())<br> <br><small>NB. Voor het gemak heb ik even de impact van luchtdruk buiten beschouwing gelaten en ben ik ervan uitgegaan dat we het hebben over een situatie met ["atmosferische standaardomstandigheden"](https://nl.wikipedia.org/wiki/Standaardomstandigheden "Wikipedia Standaardomstandigheden"). Doe je dat niet, dan opent er zich een hele nieuwe doos aan mogelijkheden.</small>
 
 {{< % /notice % >}}
 
