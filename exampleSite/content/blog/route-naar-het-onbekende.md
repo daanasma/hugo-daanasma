@@ -1,12 +1,11 @@
 +++
-author = []
+author = ["Daan Asma"]
 categories = ["Psychologie", "Essay", "Persoonlijke groei"]
 date = 2021-05-24T23:00:00Z
 description = ""
-draft = true
 image = "/images/kaart_agua_negra.png"
 tags = ["Ecosysteem", "Watts", "Taleb", "Antifragiel", "Onzekerheid"]
-title = ""
+title = "Een route naar het onbekende"
 
 +++
 Met een diep sissend geluid beweegt de glazen deur enkele centimeters naar buiten vooraleer ze naar rechts schuift om de ochtendbries binnen te laten. De Chileense buschauffeur geeft met een vriendelijk knikje in zijn kleurig versierde achteruitkijkspiegel aan dat we zijn gearriveerd bij de splitsing die we zoeken. Tijdens het uitladen van onze zware rugzakken vraagt hij ons nogmaals of we hier echt de bus willen verlaten. We stellen hem opnieuw gerust dat we onszelf wel zullen redden. Met een vertwijfelde blik haalt hij zijn schouders op, vooraleer hij zijn enorme lichaam lichaam verrassend soepel terug naar binnen tilt. Door de sluitende deur zien we hem nog net opnieuw versmelten met zijn comfortabele stoel zoals enkel buschauffeurs dat kunnen. Bij wijze van afscheidszoen trakteert het vehikel ons op een dichte zwarte rookwolk en enkele ogenblikken later zijn we enkel omringd door wijngaarden, stilte en een reeds brandende ochtendzon die ons elke minuut meer duidelijk maakt dat ze er zin in heeft vandaag. Het vijftal imposante gieren die boven ons cirkelen, verkneukelen zich in mijn verbeelding al op een feestmaal.
@@ -20,15 +19,12 @@ Na ons vertrek bij het ochtendgloren uit het slaperige dorpje Pisco Elqui bevind
   * Goed onderhouden asfaltwegen,
   * Vrij frequent openbaar vervoer,
   * Stabiel, warm en droog klimaat.
-
-
 * rechtsaf (groen):
   * Een beklimming van 137km in de Andes, die ons via de Paso Agua Negra (4780m) naar Argentinië leidt. Ter vergelijking: in de Europese Alpen overtreft enkel de top van de Mont Blanc het hoogste punt van deze route. Pittig dus.
   * Grotendeels onverharde wegen,
   * Geen openbaar vervoer: slechts een twintigtal auto’s per dag ondernemen deze route - als het weer het toelaat tenminste.
   * Relatief onvoorspelbaar klimaat.
 
-  
 We installeren onze rugzakken in de schaduw van een uit de kluiten gewassen struik aan de kant van de weg en wisselen een glimlach uit. Het stuk karton dat we die ochtend in het dorp vonden wordt fleurig gedecoreerd met een sierlijke versie van het woord ‘ARGENTINA’.
 
 Met een gezonde spanning, de duim in de aanslag en onze blik gericht naar de westelijke horizon begint het wachten...
@@ -47,7 +43,7 @@ Bovenstaande scène (wordt vervolgd) ligt inmiddels al een hele poos in het verl
 
 Gaandeweg heb ik ondervonden dat deze aanpak ervoor zorgt dat de ervaring voor mij optimaal is. De aandacht die ik niet besteed aan het creëren en volgen van een vastgelegd traject en schema kan ik spenderen aan het hier en nu: de mensen, plaatsen en gebeurtenissen die op mijn pad verschijnen. Aangezien er voortdurend verrassingen opduiken, zou het bovendien heel veel energie en tijd kosten om dit hypothetisch plan up-to-date te houden en de zo ‘controle’ over mijn reis te behouden. De spontaniteit en de spanning van enkele avonturen die ik meemaakte (de ziel van het gebeuren) kunnen bovendien op geen enkele manier gepland worden .
 
->> It is absurd to plan for a future which, when it comes to me, will find me “absent”, looking fixedly over its shoulder instead of into its face - Alan Watts
+> > It is absurd to plan for a future which, when it comes to me, will find me “absent”, looking fixedly over its shoulder instead of into its face - Alan Watts
 
 Ik vraag me soms af waarom het me lukt om op deze manier te reizen, en waarom ik tot nu toe eigenlijk heel weinig mensen heb ontmoet die het op een gelijkaardige manier aanpakken. Het voelt voor mij niet aan dat ik extreme dingen doe, maar langs de andere kant is het natuurlijk ook niet je standaard strandvakantie. Dit soort tocht is zeker niet voor iedereen weggelegd, maar mensen vertellen me wel regelmatig dat ze gelijkaardige avonturen (hadden) willen ondernemen maar dat het er uiteindelijk niet van komt. Als ik deze vraag bekijk vanuit het spectrum [comfort-stretch-paniek](/blog/kunst-van-het-vertrekken "Kunst van het vertrekken"), denk ik dat ik op verschillende niveau’s kan begrijpen waarom het voor mij alvast niet (meer) onmogelijk aanvoelde om eraan te beginnen:
 
@@ -78,14 +74,13 @@ Een Zwarte Zwaan is een gebeurtenis die:
 * Een enorme (positieve of negatieve) impact heeft,
 * Achteraf verklaard wordt door allerlei signalen die gemist werden in de voorspellingen. Volgens de mensen die deze verklaringen geven hadden ze dus vermeden of aangekondigd had kunnen worden met ‘betere voorspellingen’.
 
-  
 Een voorbeeld van een zo’n Zwarte Zwaan kan je vinden aan einde van het schijnbaar zorgeloze leven van deze kalkoen.
 
 ![](https://lh3.googleusercontent.com/HpCDXkH0fhGd-3ZBgsOyduipiAJrq_kDCcdy3MwTiiqUn9IUWAuc4xvXLbeQDvwD7EFOKKZdHJktOjO2ShZfkiB0IRyZf_UCmvPqcIWlYLbMQ3gX-VbkhJSWaGG2rma7wfZBcL69 =602x451)
 
 Vanuit het perspectief van de kalkoen zou je dit een ‘Zwarte Zwaan’ met een behoorlijk negatief effect kunnen noemen.
 
->> I thought we were friends? - kalkoen
+> > I thought we were friends? - kalkoen
 
 Dit type onwaarschijnlijke gebeurtenissen heeft in de loop der tijden een behoorlijke invloed gehad op de wereldgeschiedenis, zowel ‘positief’ als ‘negatief’. Een bloemlezing van enkele Zwarte Zwanen op een iets grotere schaal:
 
@@ -147,7 +142,6 @@ Hercules zou Hercules natuurlijk niet zijn als hij hier geen oplossing op vond e
 
 {{< % /notice % >}}
 
-  
 De Hydra van Lerna is het schoolvoorbeeld van een antifragiel systeem: bij elke klap die ze krijgt, wordt ze sterker en sterker. Een fragiele versie van het monster zou daarentegen zwakker worden bij elke onthoofding, terwijl een robuust exemplaar zichzelf bijvoorbeeld zou verdedigen met een quasi ondoordringbaar schild. Ook antifragiele systemen kunnen uiteindelijk ten onder gaan, maar deze legende illustreert mooi dat dat niet gebeurt bij het verhogen van de uitwendige druk.
 
 ![](https://lh5.googleusercontent.com/z5HeZ440kkJb6KqNr_aVqspOoTp9woQ_V1CBaPPH1QmnC8sQa6QEkrc5YcZKSpPCVvWIqeRnAWAzfiLoePJ4D-AedkQY5_xotbQgu-4rd6WKHetVkjqZ2AsqhqieTFYbAGigOxhg =602x451)
@@ -184,7 +178,7 @@ Het systeem ‘Aarde’ bestaat uit een hypercomplexe ketting van wisselwerkinge
 * Hogere bergen zorgen ervoor dat rivieren over dezelfde afstand opeens meer hoogtemeters zullen moeten afleggen, waardoor het water sneller zal stromen en dus meer kracht heeft om valleien te vormen.
 * In de hogere bergen zal het bovendien gemiddeld wat kouder zijn en zoals elke tuinier weet, kunnen sommige soorten hier al beter mee om. De vegetatie zal er dus na verloop van tijd iets anders uit zien.
 * Sommige dieren zullen opeens minder eten hebben, wat slecht nieuws is vanuit hun perspectief. Maar in dit geval wrijven de konijnen zich in de pootjes: hun buffet breidt zich uit dankzij de nieuwe plantensamenstelling. Dankzij deze overvloed aan voedsel kan de populatie kan aangroeien.
-* Goed nieuws voor de vossen die wel een brokje van de laatstgenoemde soort lusten! 
+* Goed nieuws voor de vossen die wel een brokje van de laatstgenoemde soort lusten!
 * Na enkele jaren is er echter een koude winter en een extreem droge lente: De konijnen - die intussen met heel wat meer zijn - hebben het lastiger om voedsel te vinden en hun aantal neemt wat af.
 * Minder konijnen betekent slecht nieuws voor de (zwakste) vossen, en ook het aantal vossen zal wat afnemen.
 * Het volgende jaar is er een heel milde winter, waardoor de planten opnieuw weelderig groeien. Bovendien zijn er ook minder vossen.
@@ -245,7 +239,7 @@ Als je het kabbelende van een rivier in een emmer wil bijhouden, zal dit altijd 
 
 Vanuit mijn eigen ervaring, die lang niet afgerond is, heb ik gemerkt dat dit loslaten behoorlijk eng kan zijn, en lijnrecht indruist tegen heel wat van ons aangeleerd gedrag. Zoals maatschappelijke revoluties zelden het voorspelde resultaat opleveren, denk ik ook dat een plotse ommezwaai in je leven niet persé uitdraait zoals je dat verwacht. Iedereen heeft de mogelijkheid om zijn/haar levenswijze aan te passen, maar niemand zegt dat dat ook moet gebeuren. En niemand kan bovendien bepalen hoe ver je daarin moet gaan en hoe dat er uitwendig moet uitzien. Er bestaat noch een juist pad, noch een juiste eindbestemming.
 
-In mijn geval heeft deze zoektocht een heel duidelijke en ingrijpende uitwendige vorm, maar ik heb evengoed al mensen ontmoet die een gelijkaardige innerlijke reis doormaakten vanuit een veel minder dramatische setting. Bovendien zijn er ook mensen die zich absoluut niet met dit soort zaken bezighouden en toch intens gelukkig lijken. 
+In mijn geval heeft deze zoektocht een heel duidelijke en ingrijpende uitwendige vorm, maar ik heb evengoed al mensen ontmoet die een gelijkaardige innerlijke reis doormaakten vanuit een veel minder dramatische setting. Bovendien zijn er ook mensen die zich absoluut niet met dit soort zaken bezighouden en toch intens gelukkig lijken.
 
 Daarom lijkt het me gezond om - als dit je aanspreekt - het concept geleidelijk aan te verkennen en zelf te ondervinden wat de impact op je leven kan zijn. (Alle kleine beetjes helpen) \[“Alle kleine beetjes helpen.”\](/blog/alle-kleine-beetjes-helpen "Alle kleine beetjes helpen.")
 
@@ -263,9 +257,9 @@ Taleb, die in zijn vrije tijd ook gewichtheffer blijkt te zijn, gebruikt het bee
 
 ![](https://lh4.googleusercontent.com/n4xFnSM6YrmI_o24k0yjoYFIVU00HAuDKThp5yCeS0s-4whntQaIiUyldibhptIK08NR-ab86VWe-NBf7HGGX9GKEn8jlMnjitG06pg6yTKGh-y1qTVWzZ3Uj804HqpsqTuZwLT8 =602x151)
 
-De halter illustreert een scheiding van twee extremen, waarbij het gemiddelde weinig aandacht krijgt. De twee gewichten zijn niet noodzakelijk altijd even zwaar, de belangrijkste observatie is dat er een scheiding is tussen de uitersten. Hij stelt voor om op sommige vlakken risico’s te schuwen, terwijl je op andere vlakken heel graag risico’s neemt.
+De halter illustreert een scheiding van twee extremen, waarbij het gemiddelde weinig aandacht krijgt. De twee gewichten zijn niet noodzakelijk altijd even zwaar, de belangrijkste observatie is dat er een scheiding is tussen de uitersten. Hij stelt voor om op sommige vlakken risico’s te schuwen, terwijl je op andere vlakken heel graag risico’s neemt. Hij pleit ervoor om zo weinig mogelijk 'gemiddelde risico´s' te nemen, omdat 'een beetje risico' bij het optreden van een Zwarte Zwaan toch catastrofale gevolgen kan hebben.
 
-Wanneer je gebruik maakt van de halterstrategie zorg je langs de ene kant dat er een soort van zekerheid wordt ingebouwd: op deze terreinen vermijd je risico’s, waardoor je vermijdt dat je volledig ten onder gaat. Langs de andere kant ga je net op zoek naar onzekerheid, omdat in de chaos ook vaak de meest interessante mogelijkheden opduiken. Gaat het mis, dan lijd je slechts een klein verlies omdat het ‘zekere deel’ van de halterstrategie je de nodige veiligheid biedt. Maar als het meezit, is dit de zone waar je de beste dingen kan meemaken.
+Wanneer je gebruik maakt van de halterstrategie zorg je langs de ene kant dat er een soort van zekerheid wordt ingebouwd: op deze terreinen vermijd je alle risico’s, waardoor je nooit volledig ten onder kan gaan. Langs de andere kant ga je net op zoek naar onzekerheid, omdat in de chaos ook vaak de meest interessante mogelijkheden opduiken. Gaat het mis, dan lijd je slechts een klein verlies omdat het ‘zekere deel’ van de halterstrategie je de nodige veiligheid biedt. Maar als het meezit, is dit de zone waar je de beste dingen kan meemaken.
 
 De linkerkant van de halter zorgt ervoor dat je je geen zorgen hoeft te maken over je basisnoden, en daardoor kan je zonder vrees in de chaos stappen en kan je jezelf echt openstellen voor het onbekende.
 
@@ -276,6 +270,8 @@ Ook deze strategie hoeft geen onveranderlijke aanpak te zijn. Zoals besproken in
 Ik heb bijvoorbeeld - via mijn benen - geleerd dat wanneer je al je spullen aan je fiets moet vastmaken (en die fiets vervolgens over imposante bergketens ‘moet’ slepen), je jezelf dwingt om na te denken over de dingen die je echt nodig hebt. Door die luxe uit je leven weg te nemen, wat zeker in het begin niet makkelijk is, leer je veel bij over de dingen die je echt nodig hebt om te kunnen genieten van het leven. En hoe minder je nodig hebt, hoe minder tijd en energie je moet spenderen om te voorzien in die noden. Die vrijgekomen energie kan je dan richten op de wonderen in de wereld, wat die voor jou ook mogen zijn.
 
 En dat is vrijheid voor mij.
+
+***
 
 De zeldzame wagens die ons passeren onder de Chileense ochtendzon begroeten ons met de hartelijkheid die we in het hele land al hebben ervaren. Hun bestemming ligt telkens aan deze kant van de Andes. Aangezien de weinige auto´s die de bergen oversteken zeker voor 10u aan de klim moeten beginnen (om niet aan een gesloten grensovergang te belanden), weten we dat de kansen op succes heel gering zijn. Onze strategische positie zorgt er echter voor dat we ons geen zorgen hoeven te maken: binnen een tweetal uur passeert er opnieuw een bus die ons voor het einde van de dag naar de kust kan brengen, waar we onze teleurstelling kunnen doorspoelen met een frisse Pisco Sour. Voorlopig ligt onze enige optie erin te wachten en vertrouwen te hebben.
 
