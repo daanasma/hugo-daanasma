@@ -256,9 +256,11 @@ De linkerkant van de halter zorgt ervoor dat je je geen zorgen hoeft te maken ov
 
 And that’s where the magic happens.
 
-Ook deze strategie hoeft geen onveranderlijke aanpak te zijn. Zoals besproken in (De kunst van het vertrekken) \[“De kunst van het vertrekken”\](/blog/kunst-van-het-vertrekken/ "De kunst van het vertrekken") kan een aanpak die je op dit moment heel erg uitdaagt doorheen de tijd eerder in je comfort-zone terecht komen, waardoor je kan beslissen om te kiezen om de linkerkant van de halter iets minder zwaar te maken en jezelf aan te leren om iets minder zekerheid nodig te hebben.
+Ook deze strategie hoeft geen onveranderlijke aanpak te zijn. Zoals besproken in ["De kunst van het vertrekken"](/blog/kunst-van-het-vertrekken/) kan een aanpak die je op dit moment heel erg uitdaagt doorheen de tijd eerder in je comfort-zone terecht komen, waardoor je kan beslissen om te kiezen om de linkerkant van de halter iets minder zwaar te maken en jezelf aan te leren om iets minder zekerheid nodig te hebben.
 
 Ik heb bijvoorbeeld - via mijn benen - geleerd dat wanneer je al je spullen aan je fiets moet vastmaken (en die fiets vervolgens over imposante bergketens ‘moet’ slepen), je jezelf dwingt om na te denken over de dingen die je echt nodig hebt. Door die luxe uit je leven weg te nemen, wat zeker in het begin niet makkelijk is, leer je veel bij over de dingen die je echt nodig hebt om te kunnen genieten van het leven. En hoe minder je nodig hebt, hoe minder tijd en energie je moet spenderen om te voorzien in die noden. Die vrijgekomen energie kan je dan richten op de wonderen in de wereld, wat die voor jou ook mogen zijn.
+
+> Less is more.
 
 En dat is vrijheid voor mij.
 
